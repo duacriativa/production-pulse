@@ -90,7 +90,7 @@ function Dashboard() {
 
   return (
     <div className={`ambient-bg min-h-screen ${tvMode ? "tv-mode" : ""}`}>
-      <div className={`mx-auto ${tvMode ? "p-8 max-w-[1920px]" : "p-6 max-w-[1680px]"}`}>
+      <div className={`mx-auto ${tvMode ? "p-4 sm:p-8 max-w-[1920px]" : "p-3 sm:p-6 max-w-[1680px]"}`}>
         <Header
           theme={theme}
           onToggleTheme={() => setTheme((t) => (t === "dark" ? "light" : "dark"))}
@@ -104,7 +104,7 @@ function Dashboard() {
         />
 
         {error && (
-          <div className="mb-4 p-4 rounded-xl text-sm font-medium" style={{ background: "color-mix(in oklab, var(--edge-red) 15%, transparent)", color: "var(--edge-red)", border: "1px solid color-mix(in oklab, var(--edge-red) 40%, transparent)" }}>
+          <div className="mb-4 p-3 sm:p-4 rounded-xl text-sm font-medium" style={{ background: "color-mix(in oklab, var(--edge-red) 15%, transparent)", color: "var(--edge-red)", border: "1px solid color-mix(in oklab, var(--edge-red) 40%, transparent)" }}>
             ⚠ {error}
           </div>
         )}
@@ -113,8 +113,8 @@ function Dashboard() {
         <WeekProgressBar kpis={data.kpis} />
         <Legend />
 
-        <div className="grid grid-cols-[1fr_340px] tv:grid-cols-[1fr_400px] gap-5 tv:gap-7">
-          <div className="grid gap-4 tv:gap-6 grid-cols-4">
+        <div className="grid grid-cols-1 lg:grid-cols-[1fr_340px] tv:grid-cols-[1fr_400px] gap-4 sm:gap-5 tv:gap-7">
+          <div className="grid gap-3 sm:gap-4 tv:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {sorted.map((c, i) => (
               <ClientCard
                 key={c.name}
@@ -125,7 +125,7 @@ function Dashboard() {
               />
             ))}
             {sorted.length === 0 && !syncing && !error && (
-              <div className="col-span-4 text-center text-muted-foreground py-16">
+              <div className="col-span-full text-center text-muted-foreground py-16">
                 Nenhum cliente encontrado para esta semana.
               </div>
             )}

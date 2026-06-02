@@ -11,14 +11,14 @@ export function Kpis({ kpis }: { kpis: KpisData }) {
     { label: "Progresso da Semana", value: `${kpis.progress}%`, icon: TrendingUp, accent: "var(--status-approval)", progress: kpis.progress },
   ];
   return (
-    <div className="grid grid-cols-4 gap-4 mb-6">
+    <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-6">
       {cards.map((c, i) => (
         <motion.div
           key={c.label}
           initial={{ opacity: 0, y: 12 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: i * 0.06, duration: 0.4 }}
-          className="glass-card rounded-2xl p-5 relative overflow-hidden"
+          className="glass-card rounded-2xl p-4 sm:p-5 relative overflow-hidden"
         >
           <div
             className="absolute -top-10 -right-10 w-32 h-32 rounded-full opacity-20 blur-2xl"
@@ -38,7 +38,7 @@ export function Kpis({ kpis }: { kpis: KpisData }) {
               <c.icon className="w-4.5 h-4.5" />
             </div>
           </div>
-          <div className="mt-4 text-5xl font-black tabular-nums tracking-tight text-foreground leading-none">
+          <div className="mt-4 text-3xl sm:text-5xl font-black tabular-nums tracking-tight text-foreground leading-none">
             {c.value}
           </div>
           {c.progress !== undefined && (
