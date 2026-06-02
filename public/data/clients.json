@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-06-02T20:34:27.905Z",
+  "week": {
+    "days": [
+      "TER",
+      "QUA",
+      "QUI",
+      "SEX",
+      "SAB",
+      "DOM",
+      "SEG"
+    ],
+    "dates": [
+      "02/06",
+      "03/06",
+      "04/06",
+      "05/06",
+      "06/06",
+      "07/06",
+      "08/06"
+    ]
+  },
+  "clients": [
+    {
+      "name": "AYA - Fitness",
+      "owner": "Ciane DuaCriativa",
+      "progress": 30,
+      "idleDays": 0,
+      "week": [
+        "planning",
+        "idle",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901326685391",
+        "taskCount": 100,
+        "doneCount": 30
+      }
+    },
+    {
+      "name": "Amiche",
+      "owner": "Ciane DuaCriativa",
+      "progress": 21,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324613220",
+        "taskCount": 100,
+        "doneCount": 21
+      }
+    },
+    {
+      "name": "Andirá Jeans",
+      "owner": "Isadora Coelho Cosmo",
+      "progress": 56,
+      "idleDays": 0,
+      "week": [
+        "design",
+        "idle",
+        "idle",
+        "design",
+        "idle",
+        "idle",
+        "done"
+      ],
+      "_meta": {
+        "listId": "901324614041",
+        "taskCount": 100,
+        "doneCount": 56
+      }
+    },
+    {
+      "name": "Del Carmen",
+      "owner": "Ciane DuaCriativa",
+      "progress": 25,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324614474",
+        "taskCount": 100,
+        "doneCount": 25
+      }
+    },
+    {
+      "name": "Doce Caju",
+      "owner": "Luana Vieira",
+      "progress": 21,
+      "idleDays": 0,
+      "week": [
+        "design",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "_meta": {
+        "listId": "901324614721",
+        "taskCount": 100,
+        "doneCount": 21
+      }
+    },
+    {
+      "name": "Dua Criativa",
+      "owner": "Dua Criativa",
+      "progress": 16,
+      "idleDays": 39,
+      "week": [
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "_meta": {
+        "listId": "901324682230",
+        "taskCount": 37,
+        "doneCount": 6
+      }
+    },
+    {
+      "name": "Eloah",
+      "owner": "Ciane DuaCriativa",
+      "progress": 27,
+      "idleDays": 0,
+      "week": [
+        "planning",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "_meta": {
+        "listId": "901324682275",
+        "taskCount": 100,
+        "doneCount": 27
+      }
+    },
+    {
+      "name": "Flora Minha",
+      "owner": "Luana Vieira",
+      "progress": 24,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324682301",
+        "taskCount": 100,
+        "doneCount": 24
+      }
+    },
+    {
+      "name": "Jenni Pink",
+      "owner": "Isadora Coelho Cosmo",
+      "progress": 7,
+      "idleDays": 1,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "_meta": {
+        "listId": "901326911788",
+        "taskCount": 71,
+        "doneCount": 5
+      }
+    },
+    {
+      "name": "Kyrefh Jeans",
+      "owner": "Luana Vieira",
+      "progress": 26,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "idle",
+        "design",
+        "idle",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324682326",
+        "taskCount": 100,
+        "doneCount": 26
+      }
+    },
+    {
+      "name": "Mandi - SSA",
+      "owner": "Luana Vieira",
+      "progress": 20,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901326977055",
+        "taskCount": 93,
+        "doneCount": 19
+      }
+    },
+    {
+      "name": "Marry Blue",
+      "owner": "Luana Vieira",
+      "progress": 39,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324682343",
+        "taskCount": 100,
+        "doneCount": 39
+      }
+    },
+    {
+      "name": "Mysla.br ",
+      "owner": "Luana Vieira",
+      "progress": 12,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "_meta": {
+        "listId": "901327219040",
+        "taskCount": 25,
+        "doneCount": 3
+      }
+    },
+    {
+      "name": "Naromo",
+      "owner": "Ciane DuaCriativa",
+      "progress": 16,
+      "idleDays": 1,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324682471",
+        "taskCount": 100,
+        "doneCount": 16
+      }
+    },
+    {
+      "name": "Tchu Bi",
+      "owner": "Luana Vieira",
+      "progress": 25,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "approval",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324505493",
+        "taskCount": 100,
+        "doneCount": 25
+      }
+    }
+  ]
+}
