@@ -1,0 +1,45 @@
+name: Sync ClickUp → clients.json
+
+on:
+  schedule:
+    - cron: "*/5 * * * *" # a cada 5 min
+  workflow_dispatch: # botão "Run workflow" no GitHub
+  push:
+    branches: [main]
+    paths:
+      - "scripts/sync-clickup.ts"
+      - ".github/workflows/sync-clickup.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-clickup
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Run sync script
+        env:
+          CLICKUP_TOKEN: ${{ secrets.CLICKUP_TOKEN }}
+        run: bun run scripts/sync-clickup.ts
+
+      - name: Commit changes (se houver)
+        run: |
+          git config user.name  "clickup-sync-bot"
+          git config user.email "bot@duacriativa.local"
+          if [[ -n "$(git status --porcelain public/data/clients.json)" ]]; then
+            git add public/data/clients.json
+            git commit -m "chore(sync): atualiza clients.json [skip ci]"
+            git push
+          else
+            echo "Sem mudanças."
+          fi
