@@ -11,9 +11,10 @@ type Props = {
 };
 
 export function Header({ theme, onToggleTheme, tvMode, onToggleTv, lastUpdate, syncing }: Props) {
-  const [now, setNow] = useState(new Date());
+  const [now, setNow] = useState<Date | null>(null);
 
   useEffect(() => {
+    setNow(new Date());
     const id = setInterval(() => setNow(new Date()), 1000);
     return () => clearInterval(id);
   }, []);
