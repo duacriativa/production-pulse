@@ -113,8 +113,8 @@ function Dashboard() {
         <WeekProgressBar kpis={data.kpis} />
         <Legend />
 
-        <div className="grid grid-cols-[1fr_340px] tv:grid-cols-[1fr_400px] gap-5 tv:gap-7">
-          <div className="grid gap-4 tv:gap-6 grid-cols-4">
+        <div className="grid grid-cols-1 lg:grid-cols-[1fr_340px] tv:grid-cols-[1fr_400px] gap-4 sm:gap-5 tv:gap-7">
+          <div className="grid gap-3 sm:gap-4 tv:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {sorted.map((c, i) => (
               <ClientCard
                 key={c.name}
@@ -125,7 +125,7 @@ function Dashboard() {
               />
             ))}
             {sorted.length === 0 && !syncing && !error && (
-              <div className="col-span-4 text-center text-muted-foreground py-16">
+              <div className="col-span-full text-center text-muted-foreground py-16">
                 Nenhum cliente encontrado para esta semana.
               </div>
             )}
