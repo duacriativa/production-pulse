@@ -1,13 +1,29 @@
 import { motion } from "framer-motion";
 import { Activity, Clock, AlertCircle, Palette, AlertTriangle } from "lucide-react";
-import { DELIVERIES, TODAY_PRODUCTION, STATUS_LABEL, STATUS_VAR, Status } from "@/lib/dashboard-data";
+import { STATUS_LABEL, STATUS_VAR, Status, Client } from "@/lib/dashboard-data";
 
-const ALERTS = [
-  { text: "3 clientes abaixo de 15%", tone: "var(--edge-red)" },
-  { text: "147 tarefas pendentes", tone: "var(--status-design)" },
-  { text: "4 conteúdos aguardando aprovação", tone: "var(--status-approval)" },
-  { text: "2 clientes parados há +5 dias", tone: "var(--edge-orange)" },
-];
+type TodayProduction = { deliveries: number; approvals: number; awaiting: number };
+type Delivery = { client: string };
+
+type Props = {
+  todayProduction: TodayProduction;
+  deliveries: Delivery[];
+  clients: Client[];
+};
+
+function buildAlerts(clients: Client[], kpisTotal: number, kpisProgress: number) {
+  const alerts: { text: string; tone: string }[] = [];
+  const belowFifteen = clients.filter((c) => c.progress <= 15).length;
+  if (belowFifteen > 0)
+    alerts.push({ text: `${belowFifteen} cliente${belowFifteen > 1 ? "s" : ""} abaixo de 15%`, tone: "var(--edge-red)" });
+  const pending = kpisTotal - Math.round(kpisTotal * (kpisProgress / 100));
+  if (pending > 0)
+    alerts.push({ text: `${pending} tarefas pendentes`, tone: "var(--status-design)" });
+  const idleFive = clients.filter((c) => c.idleDays >= 5).length;
+  if (idleFive > 0)
+    alerts.push({ text: `${idleFive} cliente${idleFive > 1 ? "s" : ""} parado${idleFive > 1 ? "s" : ""} há +5 dias`, tone: "var(--edge-orange)" });
+  return alerts;
+}
 
 function Section({ title, icon: Icon, children, delay = 0, badge }: any) {
   return (
@@ -40,31 +56,42 @@ function Section({ title, icon: Icon, children, delay = 0, badge }: any) {
   );
 }
 
-export function SidePanel() {
+export function SidePanel({ todayProduction, deliveries, clients }: Props) {
+  const pending = clients.reduce((acc, c) => acc + c.week.filter((s) => s !== "done" && s !== "idle").length, 0);
+  const weekProgress = clients.length > 0
+    ? Math.round((clients.filter((c) => c.progress > 0).length / clients.length) * 100)
+    : 0;
+  const alerts = buildAlerts(clients, pending, weekProgress);
+
   return (
     <aside className="flex flex-col gap-4">
       <Section title="Produção Hoje" icon={Activity} delay={0.05}>
         <div className="space-y-3">
-          <Row label="Entregas" value={TODAY_PRODUCTION.deliveries} color="var(--status-done)" />
-          <Row label="Aprovações" value={TODAY_PRODUCTION.approvals} color="var(--status-approval)" />
-          <Row label="Aguardando cliente" value={TODAY_PRODUCTION.awaiting} color="var(--status-design)" />
+          <Row label="Entregas" value={todayProduction.deliveries} color="var(--status-done)" />
+          <Row label="Aprovações" value={todayProduction.approvals} color="var(--status-approval)" />
+          <Row label="Aguardando cliente" value={todayProduction.awaiting} color="var(--status-design)" />
         </div>
       </Section>
 
       <Section title="Entregas do Dia" icon={Clock} delay={0.1}>
         <div className="space-y-2.5">
-          {DELIVERIES.map((d) => (
-            <div key={d.time} className="flex items-center gap-3 p-2.5 tv:p-3 rounded-xl bg-muted/40 border border-border">
-              <div className="text-base tv:text-xl font-bold tabular-nums text-primary w-14">{d.time}</div>
+          {deliveries.length === 0 && (
+            <p className="text-sm text-muted-foreground">Nenhuma entrega hoje.</p>
+          )}
+          {deliveries.map((d) => (
+            <div key={d.client} className="flex items-center gap-3 p-2.5 tv:p-3 rounded-xl bg-muted/40 border border-border">
               <div className="text-sm tv:text-lg font-medium text-foreground">{d.client}</div>
             </div>
           ))}
         </div>
       </Section>
 
-      <Section title="Alertas" icon={AlertCircle} delay={0.15} badge={ALERTS.length}>
+      <Section title="Alertas" icon={AlertCircle} delay={0.15} badge={alerts.length || undefined}>
         <div className="space-y-2">
-          {ALERTS.map((a) => (
+          {alerts.length === 0 && (
+            <p className="text-sm text-muted-foreground">Nenhum alerta no momento.</p>
+          )}
+          {alerts.map((a) => (
             <div
               key={a.text}
               className="flex items-center gap-2 p-2.5 tv:p-3 rounded-xl text-sm tv:text-base"

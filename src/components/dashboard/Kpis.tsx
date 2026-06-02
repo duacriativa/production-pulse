@@ -1,15 +1,15 @@
 import { motion } from "framer-motion";
 import { CheckCircle2, Clock, ListTodo, TrendingUp } from "lucide-react";
-import { KPIS } from "@/lib/dashboard-data";
 
-const cards = [
-  { label: "Total de Tarefas", value: KPIS.total, icon: ListTodo, accent: "var(--primary)" },
-  { label: "Entregues", value: KPIS.delivered, icon: CheckCircle2, accent: "var(--status-done)" },
-  { label: "Pendentes", value: KPIS.pending, icon: Clock, accent: "var(--status-design)" },
-  { label: "Progresso da Semana", value: `${KPIS.progress}%`, icon: TrendingUp, accent: "var(--status-approval)", progress: KPIS.progress },
-];
+type KpisData = { total: number; delivered: number; pending: number; progress: number };
 
-export function Kpis() {
+export function Kpis({ kpis }: { kpis: KpisData }) {
+  const cards = [
+    { label: "Total de Tarefas", value: kpis.total, icon: ListTodo, accent: "var(--primary)" },
+    { label: "Entregues", value: kpis.delivered, icon: CheckCircle2, accent: "var(--status-done)" },
+    { label: "Pendentes", value: kpis.pending, icon: Clock, accent: "var(--status-design)" },
+    { label: "Progresso da Semana", value: `${kpis.progress}%`, icon: TrendingUp, accent: "var(--status-approval)", progress: kpis.progress },
+  ];
   return (
     <div className="grid grid-cols-4 gap-4 mb-6">
       {cards.map((c, i) => (
