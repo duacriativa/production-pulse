@@ -11,16 +11,19 @@ type Props = {
 };
 
 export function Header({ theme, onToggleTheme, tvMode, onToggleTv, lastUpdate, syncing }: Props) {
-  const [now, setNow] = useState(new Date());
+  const [now, setNow] = useState<Date | null>(null);
 
   useEffect(() => {
+    setNow(new Date());
     const id = setInterval(() => setNow(new Date()), 1000);
     return () => clearInterval(id);
   }, []);
 
   const updateLabel = syncing
     ? "Sincronizando..."
-    : `Atualizado ${relativeTime(lastUpdate, now)}`;
+    : now
+    ? `Atualizado ${relativeTime(lastUpdate, now)}`
+    : "Atualizado agora";
 
   return (
     <header className="flex items-center justify-between gap-6 mb-6">
@@ -57,7 +60,7 @@ export function Header({ theme, onToggleTheme, tvMode, onToggleTv, lastUpdate, s
         <div className="glass-card rounded-2xl px-4 py-2 flex items-center gap-3">
           <div className="text-right">
             <div className="text-2xl font-bold tabular-nums leading-none text-foreground">
-              {now.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" })}
+              {now ? now.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" }) : "--:--"}
             </div>
             <div className="flex items-center gap-1.5 mt-1 text-[11px] text-muted-foreground">
               <RefreshCw className={`w-3 h-3 ${syncing ? "animate-spin" : ""}`} />

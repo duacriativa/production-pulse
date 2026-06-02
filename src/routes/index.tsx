@@ -5,6 +5,7 @@ import { Kpis } from "@/components/dashboard/Kpis";
 import { Legend } from "@/components/dashboard/Legend";
 import { ClientCard } from "@/components/dashboard/ClientCard";
 import { SidePanel } from "@/components/dashboard/SidePanel";
+import { WeekProgressBar } from "@/components/dashboard/WeekProgressBar";
 import { CLIENTS, sortClients } from "@/lib/dashboard-data";
 
 export const Route = createFileRoute("/")({
@@ -68,10 +69,11 @@ function Dashboard() {
         />
 
         <Kpis />
+        <WeekProgressBar />
         <Legend />
 
-        <div className="grid grid-cols-[1fr_320px] gap-6">
-          <div className={`grid gap-4 ${tvMode ? "grid-cols-4" : "grid-cols-4"}`}>
+        <div className="grid grid-cols-[1fr_340px] tv:grid-cols-[1fr_400px] gap-5 tv:gap-7">
+          <div className="grid gap-4 tv:gap-6 grid-cols-4">
             {sorted.map((c, i) => (
               <ClientCard key={c.name} client={c} index={i} />
             ))}
