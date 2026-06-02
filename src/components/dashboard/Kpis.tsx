@@ -11,7 +11,7 @@ export function Kpis({ kpis }: { kpis: KpisData }) {
     { label: "Progresso da Semana", value: `${kpis.progress}%`, icon: TrendingUp, accent: "var(--status-approval)", progress: kpis.progress },
   ];
   return (
-    <div className="grid grid-cols-4 gap-4 mb-6">
+    <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-6">
       {cards.map((c, i) => (
         <motion.div
           key={c.label}
