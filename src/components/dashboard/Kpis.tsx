@@ -18,7 +18,7 @@ export function Kpis({ kpis }: { kpis: KpisData }) {
           initial={{ opacity: 0, y: 12 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: i * 0.06, duration: 0.4 }}
-          className="glass-card rounded-2xl p-5 relative overflow-hidden"
+          className="glass-card rounded-2xl p-4 sm:p-5 relative overflow-hidden"
         >
           <div
             className="absolute -top-10 -right-10 w-32 h-32 rounded-full opacity-20 blur-2xl"
