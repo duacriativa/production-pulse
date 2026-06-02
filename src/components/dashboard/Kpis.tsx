@@ -38,7 +38,7 @@ export function Kpis({ kpis }: { kpis: KpisData }) {
               <c.icon className="w-4.5 h-4.5" />
             </div>
           </div>
-          <div className="mt-4 text-5xl font-black tabular-nums tracking-tight text-foreground leading-none">
+          <div className="mt-4 text-3xl sm:text-5xl font-black tabular-nums tracking-tight text-foreground leading-none">
             {c.value}
           </div>
           {c.progress !== undefined && (
