@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { AlertTriangle } from "lucide-react";
+import { AlertTriangle, Check } from "lucide-react";
 import { Client, STATUS_VAR, WEEK_DAYS, WEEK_DATES, edgeColor } from "@/lib/dashboard-data";
 
 export function ClientCard({ client, index }: { client: Client; index: number }) {
@@ -61,34 +61,32 @@ export function ClientCard({ client, index }: { client: Client; index: number })
         />
       </div>
 
-      {/* Timeline */}
-      <div className="mt-5 tv:mt-6 grid grid-cols-7 gap-1.5 tv:gap-2 flex-1">
-        {client.week.map((s, i) => (
-          <div
-            key={i}
-            className="rounded-lg flex flex-col items-center justify-center py-2 tv:py-3 gap-0.5"
-            style={{
-              background: `color-mix(in oklab, ${STATUS_VAR[s]} 38%, transparent)`,
-              border: `1.5px solid color-mix(in oklab, ${STATUS_VAR[s]} 70%, transparent)`,
-              boxShadow: s !== "idle"
-                ? `inset 0 1px 0 color-mix(in oklab, white 18%, transparent)`
-                : undefined,
-            }}
-          >
-            <span
-              className="text-[11px] tv:text-sm font-black tabular-nums leading-none"
-              style={{ color: s === "idle" ? "var(--muted-foreground)" : "white" }}
+      {/* Timeline — pills compactas com data + dia da semana */}
+      <div className="mt-5 tv:mt-6 flex flex-wrap gap-1.5 tv:gap-2">
+        {client.week.map((s, i) => {
+          const isIdle = s === "idle";
+          const isDone = s === "done";
+          return (
+            <div
+              key={i}
+              className="inline-flex items-center gap-1.5 px-2.5 tv:px-3 py-1.5 tv:py-2 rounded-lg text-[12px] tv:text-sm font-bold tabular-nums leading-none"
+              style={{
+                background: isIdle
+                  ? "color-mix(in oklab, var(--muted) 60%, transparent)"
+                  : `color-mix(in oklab, ${STATUS_VAR[s]} 22%, transparent)`,
+                border: `1.5px solid color-mix(in oklab, ${STATUS_VAR[s]} ${isIdle ? 25 : 65}%, transparent)`,
+                color: isIdle ? "var(--muted-foreground)" : STATUS_VAR[s],
+                boxShadow: !isIdle
+                  ? `0 0 12px -4px color-mix(in oklab, ${STATUS_VAR[s]} 50%, transparent)`
+                  : undefined,
+              }}
             >
-              {WEEK_DATES[i].slice(0, 2)}
-            </span>
-            <span
-              className="text-[9px] tv:text-[11px] font-bold tracking-wider leading-none opacity-90"
-              style={{ color: s === "idle" ? "var(--muted-foreground)" : "white" }}
-            >
-              {WEEK_DAYS[i]}
-            </span>
-          </div>
-        ))}
+              <span>{WEEK_DATES[i]}</span>
+              <span className="text-[10px] tv:text-xs opacity-80 uppercase">{WEEK_DAYS[i].toLowerCase()}</span>
+              {isDone && <Check className="w-3 h-3 tv:w-3.5 tv:h-3.5 -mr-0.5" strokeWidth={3} />}
+            </div>
+          );
+        })}
       </div>
     </motion.div>
   );
