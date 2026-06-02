@@ -60,7 +60,7 @@ function Dashboard() {
     setSyncing(true);
     setError(null);
     try {
-      const result = await getDashboardData({ data: { weekOffset: offset } });
+      const result = await getDashboardData(offset);
       setData(result);
       setLastUpdate(new Date());
     } catch (e) {
