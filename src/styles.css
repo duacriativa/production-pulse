@@ -3,6 +3,7 @@
 @import "tw-animate-css";
 
 @custom-variant dark (&:is(.dark *));
+@custom-variant tv (&:is(.tv-mode *));
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
@@ -138,8 +139,9 @@
 }
 
 .tv-mode {
-  font-size: 18px;
+  font-size: 20px;
 }
+.tv-mode h1 { letter-spacing: -0.02em; }
 
 @keyframes pulse-dot {
   0%, 100% { opacity: 1; transform: scale(1); }
