@@ -1,8 +1,10 @@
 import { motion } from "framer-motion";
 import { AlertTriangle, Check } from "lucide-react";
-import { Client, STATUS_VAR, WEEK_DAYS, WEEK_DATES, edgeColor } from "@/lib/dashboard-data";
+import { Client, STATUS_VAR, edgeColor } from "@/lib/dashboard-data";
 
-export function ClientCard({ client, index }: { client: Client; index: number }) {
+type Props = { client: Client; index: number; weekDays: string[]; weekDates: string[] };
+
+export function ClientCard({ client, index, weekDays, weekDates }: Props) {
   const edge = edgeColor(client.progress);
   const critical = client.progress <= 15;
 
@@ -81,8 +83,8 @@ export function ClientCard({ client, index }: { client: Client; index: number })
                   : undefined,
               }}
             >
-              <span>{WEEK_DATES[i]}</span>
-              <span className="text-[10px] tv:text-xs opacity-80 uppercase">{WEEK_DAYS[i].toLowerCase()}</span>
+              <span>{weekDates[i]}</span>
+              <span className="text-[10px] tv:text-xs opacity-80 uppercase">{weekDays[i].toLowerCase()}</span>
               {isDone && <Check className="w-3 h-3 tv:w-3.5 tv:h-3.5 -mr-0.5" strokeWidth={3} />}
             </div>
           );

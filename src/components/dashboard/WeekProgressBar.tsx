@@ -1,7 +1,8 @@
 import { motion } from "framer-motion";
-import { KPIS } from "@/lib/dashboard-data";
 
-export function WeekProgressBar() {
+type KpisData = { total: number; delivered: number; progress: number };
+
+export function WeekProgressBar({ kpis }: { kpis: KpisData }) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 8 }}
@@ -14,14 +15,14 @@ export function WeekProgressBar() {
           Progresso Geral da Semana
         </span>
         <span className="text-2xl tv:text-3xl font-black tabular-nums text-foreground">
-          {KPIS.delivered}<span className="text-muted-foreground font-bold text-base tv:text-lg">/{KPIS.total}</span>
-          <span className="ml-3 text-primary">{KPIS.progress}%</span>
+          {kpis.delivered}<span className="text-muted-foreground font-bold text-base tv:text-lg">/{kpis.total}</span>
+          <span className="ml-3 text-primary">{kpis.progress}%</span>
         </span>
       </div>
       <div className="h-3 tv:h-4 rounded-full overflow-hidden bg-muted/60 relative">
         <motion.div
           initial={{ width: 0 }}
-          animate={{ width: `${KPIS.progress}%` }}
+          animate={{ width: `${kpis.progress}%` }}
           transition={{ duration: 1.1, ease: "easeOut", delay: 0.15 }}
           className="h-full rounded-full relative"
           style={{

@@ -8,9 +8,12 @@ type Props = {
   onToggleTv: () => void;
   lastUpdate: Date;
   syncing: boolean;
+  weekLabel: string;
+  onPrevWeek: () => void;
+  onNextWeek: () => void;
 };
 
-export function Header({ theme, onToggleTheme, tvMode, onToggleTv, lastUpdate, syncing }: Props) {
+export function Header({ theme, onToggleTheme, tvMode, onToggleTv, lastUpdate, syncing, weekLabel, onPrevWeek, onNextWeek }: Props) {
   const [now, setNow] = useState<Date | null>(null);
 
   useEffect(() => {
@@ -46,11 +49,11 @@ export function Header({ theme, onToggleTheme, tvMode, onToggleTv, lastUpdate, s
 
       {/* Center: week selector */}
       <div className="glass-card rounded-2xl flex items-center gap-2 px-2 py-1.5">
-        <button className="w-8 h-8 rounded-lg hover:bg-muted flex items-center justify-center text-muted-foreground">
+        <button onClick={onPrevWeek} className="w-8 h-8 rounded-lg hover:bg-muted flex items-center justify-center text-muted-foreground">
           <ChevronLeft className="w-4 h-4" />
         </button>
-        <div className="px-3 text-sm font-semibold tabular-nums text-foreground">02/06 — 08/06</div>
-        <button className="w-8 h-8 rounded-lg hover:bg-muted flex items-center justify-center text-muted-foreground">
+        <div className="px-3 text-sm font-semibold tabular-nums text-foreground">{weekLabel}</div>
+        <button onClick={onNextWeek} className="w-8 h-8 rounded-lg hover:bg-muted flex items-center justify-center text-muted-foreground">
           <ChevronRight className="w-4 h-4" />
         </button>
       </div>
