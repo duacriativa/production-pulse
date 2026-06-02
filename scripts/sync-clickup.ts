@@ -99,7 +99,10 @@ async function main() {
   if (!folder) throw new Error(`Folder "${FOLDER_NAME}" não encontrado`);
 
   const lists = folder.lists.filter(
-    (l) => !/template/i.test(l.name) && !/ex-clientes/i.test(l.name),
+    (l) =>
+      !/template/i.test(l.name) &&
+      !/ex-clientes/i.test(l.name) &&
+      !/^\s*dua\s+criativa\s*$/i.test(l.name), // própria agência, não é cliente
   );
   console.log(`→ ${lists.length} lists (clientes) encontrados.`);
 
