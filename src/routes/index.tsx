@@ -90,7 +90,7 @@ function Dashboard() {
 
   return (
     <div className={`ambient-bg min-h-screen ${tvMode ? "tv-mode" : ""}`}>
-      <div className={`mx-auto ${tvMode ? "p-8 max-w-[1920px]" : "p-6 max-w-[1680px]"}`}>
+      <div className={`mx-auto ${tvMode ? "p-4 sm:p-8 max-w-[1920px]" : "p-3 sm:p-6 max-w-[1680px]"}`}>
         <Header
           theme={theme}
           onToggleTheme={() => setTheme((t) => (t === "dark" ? "light" : "dark"))}
@@ -104,7 +104,7 @@ function Dashboard() {
         />
 
         {error && (
-          <div className="mb-4 p-4 rounded-xl text-sm font-medium" style={{ background: "color-mix(in oklab, var(--edge-red) 15%, transparent)", color: "var(--edge-red)", border: "1px solid color-mix(in oklab, var(--edge-red) 40%, transparent)" }}>
+          <div className="mb-4 p-3 sm:p-4 rounded-xl text-sm font-medium" style={{ background: "color-mix(in oklab, var(--edge-red) 15%, transparent)", color: "var(--edge-red)", border: "1px solid color-mix(in oklab, var(--edge-red) 40%, transparent)" }}>
             ⚠ {error}
           </div>
         )}
