@@ -59,13 +59,13 @@ export function Header({ theme, onToggleTheme, tvMode, onToggleTv, lastUpdate, s
       </div>
 
       {/* Right */}
-      <div className="flex items-center gap-3">
-        <div className="glass-card rounded-2xl px-4 py-2 flex items-center gap-3">
+      <div className="flex items-center gap-2 sm:gap-3">
+        <div className="glass-card rounded-2xl px-3 sm:px-4 py-2 flex items-center gap-3">
           <div className="text-right">
-            <div suppressHydrationWarning className="text-2xl font-bold tabular-nums leading-none text-foreground">
+            <div suppressHydrationWarning className="text-lg sm:text-2xl font-bold tabular-nums leading-none text-foreground">
               {now ? now.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" }) : "--:--"}
             </div>
-            <div className="flex items-center gap-1.5 mt-1 text-[11px] text-muted-foreground">
+            <div className="flex items-center gap-1.5 mt-1 text-[10px] sm:text-[11px] text-muted-foreground">
               <RefreshCw className={`w-3 h-3 ${syncing ? "animate-spin" : ""}`} />
               <span>{updateLabel}</span>
             </div>
@@ -74,7 +74,7 @@ export function Header({ theme, onToggleTheme, tvMode, onToggleTv, lastUpdate, s
 
         <button
           onClick={onToggleTheme}
-          className="glass-card rounded-2xl w-11 h-11 flex items-center justify-center text-foreground hover:text-primary transition-colors"
+          className="glass-card rounded-2xl w-10 h-10 sm:w-11 sm:h-11 flex items-center justify-center text-foreground hover:text-primary transition-colors shrink-0"
           title={theme === "dark" ? "Tema claro" : "Tema escuro"}
         >
           {theme === "dark" ? <Sun className="w-5 h-5" /> : <Moon className="w-5 h-5" />}
