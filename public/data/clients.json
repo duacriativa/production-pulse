@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T20:34:27.905Z",
+  "generatedAt": "2026-06-02T20:38:25.287Z",
   "week": {
     "days": [
       "TER",
@@ -119,26 +119,6 @@
         "listId": "901324614721",
         "taskCount": 100,
         "doneCount": 21
-      }
-    },
-    {
-      "name": "Dua Criativa",
-      "owner": "Dua Criativa",
-      "progress": 16,
-      "idleDays": 39,
-      "week": [
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
-      ],
-      "_meta": {
-        "listId": "901324682230",
-        "taskCount": 37,
-        "doneCount": 6
       }
     },
     {
