@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T21:23:01.776Z",
+  "generatedAt": "2026-06-07T22:34:52.586Z",
   "week": {
     "days": [
       "TER",
@@ -85,7 +85,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 23,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "approval",
         "idle",
@@ -285,7 +285,7 @@
       "name": "Tchu Bi",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "approval",
