@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T06:55:55.399Z",
+  "generatedAt": "2026-06-08T11:54:19.734Z",
   "week": {
     "days": [
       "TER",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 9,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -243,9 +243,9 @@
     },
     {
       "name": "Mysla.br ",
-      "owner": "Isadora Coelho Cosmo",
+      "owner": "Luana Vieira",
       "progress": 9,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
