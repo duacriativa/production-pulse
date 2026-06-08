@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:34:34.892Z",
+  "generatedAt": "2026-06-08T22:13:30.869Z",
   "week": {
     "days": [
       "TER",
@@ -24,21 +24,21 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 30,
+      "progress": 33,
       "idleDays": 0,
       "week": [
+        "done",
+        "idle",
+        "done",
         "idle",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "done"
       ],
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 30
+        "doneCount": 33
       }
     },
     {
@@ -184,12 +184,12 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 24,
-      "idleDays": 4,
+      "progress": 28,
+      "idleDays": 0,
       "week": [
+        "done",
         "idle",
-        "idle",
-        "idle",
+        "done",
         "idle",
         "idle",
         "idle",
@@ -198,7 +198,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 24
+        "doneCount": 28
       }
     },
     {
@@ -210,7 +210,7 @@
         "idle",
         "done",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -233,7 +233,7 @@
         "done",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682343",
@@ -285,12 +285,12 @@
       "name": "Tchu Bi",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "approval",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
