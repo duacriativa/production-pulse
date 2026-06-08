@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T15:31:49.347Z",
+  "generatedAt": "2026-06-08T18:13:02.389Z",
   "week": {
     "days": [
       "TER",
@@ -44,11 +44,11 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
+      "progress": 20,
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
+        "done",
         "idle",
         "design",
         "idle",
@@ -58,7 +58,7 @@
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 20
       }
     },
     {
@@ -84,21 +84,21 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 23,
+      "progress": 26,
       "idleDays": 0,
       "week": [
         "idle",
+        "done",
+        "done",
         "idle",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "done"
       ],
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 23
+        "doneCount": 26
       }
     },
     {
@@ -144,13 +144,13 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 19,
+      "progress": 21,
       "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "idle",
-        "design",
+        "done",
+        "approval",
         "idle",
         "idle",
         "design"
@@ -158,7 +158,7 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 21
       }
     },
     {
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 24,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "idle",
@@ -264,21 +264,21 @@
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 13,
-      "idleDays": 3,
+      "progress": 15,
+      "idleDays": 0,
       "week": [
         "idle",
-        "idle",
+        "done",
         "idle",
         "design",
         "idle",
         "idle",
-        "idle"
+        "done"
       ],
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 13
+        "doneCount": 15
       }
     },
     {
