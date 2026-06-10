@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T18:14:26.385Z",
+  "generatedAt": "2026-06-10T20:47:00.630Z",
   "week": {
     "days": [
       "TER",
@@ -65,7 +65,7 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 57,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "planning",
         "idle",
@@ -108,8 +108,8 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "idle",
         "design",
-        "planning",
         "design",
         "idle",
         "idle",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 24,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -165,11 +165,11 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 9,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -188,7 +188,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -208,7 +208,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -227,8 +227,8 @@
       "progress": 36,
       "idleDays": 0,
       "week": [
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "design",
         "idle",
@@ -268,12 +268,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle",
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324682471",
