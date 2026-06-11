@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T04:52:20.265Z",
+  "generatedAt": "2026-06-11T09:06:52.098Z",
   "week": {
     "days": [
       "TER",
@@ -28,7 +28,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "planning",
         "planning",
         "design",
         "idle",
@@ -88,7 +88,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -125,11 +125,11 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 24,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
