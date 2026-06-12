@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T10:43:11.468Z",
+  "generatedAt": "2026-06-12T13:51:44.107Z",
   "week": {
     "days": [
       "TER",
@@ -285,7 +285,7 @@
       "name": "Tchu Bi",
       "owner": "Luana Vieira",
       "progress": 22,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "approval",
