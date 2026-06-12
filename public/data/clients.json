@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T13:51:44.107Z",
+  "generatedAt": "2026-06-12T16:35:46.097Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 33,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "planning",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -164,10 +164,10 @@
     {
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 9,
+      "progress": 10,
       "idleDays": 0,
       "week": [
-        "design",
+        "done",
         "idle",
         "idle",
         "design",
@@ -178,7 +178,7 @@
       "_meta": {
         "listId": "901326911788",
         "taskCount": 79,
-        "doneCount": 7
+        "doneCount": 8
       }
     },
     {
@@ -190,7 +190,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -210,7 +210,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -257,7 +257,7 @@
       ],
       "_meta": {
         "listId": "901327219040",
-        "taskCount": 33,
+        "taskCount": 34,
         "doneCount": 3
       }
     },
