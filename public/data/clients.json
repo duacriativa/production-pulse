@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T17:58:13.811Z",
+  "generatedAt": "2026-06-13T19:40:37.566Z",
   "week": {
     "days": [
       "TER",
@@ -245,7 +245,7 @@
       "name": "Mysla.br ",
       "owner": "Luana Vieira",
       "progress": 9,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
