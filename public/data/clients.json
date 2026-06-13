@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T13:09:08.226Z",
+  "generatedAt": "2026-06-13T15:08:06.672Z",
   "week": {
     "days": [
       "TER",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -285,7 +285,7 @@
       "name": "Tchu Bi",
       "owner": "Luana Vieira",
       "progress": 22,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "approval",
