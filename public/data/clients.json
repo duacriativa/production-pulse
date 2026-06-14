@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T00:08:11.695Z",
+  "generatedAt": "2026-06-14T05:04:22.114Z",
   "week": {
     "days": [
       "TER",
@@ -85,7 +85,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 26,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 10,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "done",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 15,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
