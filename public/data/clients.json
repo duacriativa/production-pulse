@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T18:13:09.387Z",
+  "generatedAt": "2026-06-15T21:22:42.901Z",
   "week": {
     "days": [
       "TER",
@@ -84,8 +84,8 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 25,
-      "idleDays": 1,
+      "progress": 27,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -93,12 +93,12 @@
         "idle",
         "idle",
         "idle",
-        "idle"
+        "done"
       ],
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 25
+        "doneCount": 27
       }
     },
     {
@@ -144,7 +144,7 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 18,
+      "progress": 20,
       "idleDays": 0,
       "week": [
         "idle",
@@ -158,7 +158,7 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 20
       }
     },
     {
@@ -224,21 +224,21 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 34,
+      "progress": 35,
       "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
+        "done",
         "idle",
         "idle",
-        "idle"
+        "done"
       ],
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 34
+        "doneCount": 35
       }
     },
     {
