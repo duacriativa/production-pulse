@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T07:32:49.614Z",
+  "generatedAt": "2026-06-15T13:35:24.577Z",
   "week": {
     "days": [
       "TER",
@@ -64,10 +64,10 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 55,
+      "progress": 57,
       "idleDays": 0,
       "week": [
-        "planning",
+        "done",
         "idle",
         "idle",
         "idle",
@@ -78,7 +78,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 55
+        "doneCount": 57
       }
     },
     {
@@ -113,7 +113,7 @@
         "idle",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614721",
@@ -124,7 +124,7 @@
     {
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
-      "progress": 13,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "idle",
@@ -138,7 +138,7 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 13
+        "doneCount": 18
       }
     },
     {
@@ -184,7 +184,7 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 23,
+      "progress": 27,
       "idleDays": 0,
       "week": [
         "idle",
@@ -198,13 +198,13 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 23
+        "doneCount": 27
       }
     },
     {
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
-      "progress": 11,
+      "progress": 12,
       "idleDays": 0,
       "week": [
         "idle",
@@ -218,7 +218,7 @@
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 11
+        "doneCount": 12
       }
     },
     {
@@ -279,26 +279,6 @@
         "listId": "901324682471",
         "taskCount": 100,
         "doneCount": 14
-      }
-    },
-    {
-      "name": "Tchu Bi",
-      "owner": "Luana Vieira",
-      "progress": 22,
-      "idleDays": 4,
-      "week": [
-        "idle",
-        "approval",
-        "planning",
-        "planning",
-        "idle",
-        "idle",
-        "idle"
-      ],
-      "_meta": {
-        "listId": "901324505493",
-        "taskCount": 100,
-        "doneCount": 22
       }
     }
   ]
