@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T23:14:13.246Z",
+  "generatedAt": "2026-06-16T01:48:33.039Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "09/06",
-      "10/06",
-      "11/06",
-      "12/06",
-      "13/06",
-      "14/06",
-      "15/06"
+      "16/06",
+      "17/06",
+      "18/06",
+      "19/06",
+      "20/06",
+      "21/06",
+      "22/06"
     ]
   },
   "clients": [
@@ -29,11 +29,11 @@
       "week": [
         "idle",
         "planning",
-        "planning",
         "idle",
         "idle",
         "idle",
-        "approval"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901326685391",
@@ -48,12 +48,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "done",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "done"
+        "design"
       ],
       "_meta": {
         "listId": "901324613220",
@@ -67,8 +67,8 @@
       "progress": 57,
       "idleDays": 0,
       "week": [
-        "done",
         "idle",
+        "planning",
         "idle",
         "idle",
         "idle",
@@ -88,12 +88,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "done"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
@@ -107,13 +107,13 @@
       "progress": 16,
       "idleDays": 0,
       "week": [
+        "design",
+        "design",
+        "idle",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "approval"
+        "idle"
       ],
       "_meta": {
         "listId": "901324614721",
@@ -127,9 +127,9 @@
       "progress": 32,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
         "design",
         "idle",
         "idle",
@@ -148,12 +148,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -167,10 +167,10 @@
       "progress": 9,
       "idleDays": 1,
       "week": [
-        "done",
         "idle",
-        "idle",
-        "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -188,12 +188,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682326",
@@ -208,12 +208,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901326977055",
@@ -228,12 +228,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "design",
+        "design",
         "idle",
         "idle",
-        "done",
         "idle",
-        "idle",
-        "done"
+        "design"
       ],
       "_meta": {
         "listId": "901324682343",
@@ -247,10 +247,10 @@
       "progress": 24,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -268,9 +268,9 @@
       "idleDays": 1,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
