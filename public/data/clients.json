@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T17:27:46.191Z",
+  "generatedAt": "2026-06-16T20:24:35.553Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 20,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -184,7 +184,7 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 30,
+      "progress": 29,
       "idleDays": 0,
       "week": [
         "idle",
@@ -198,7 +198,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 30
+        "doneCount": 29
       }
     },
     {
@@ -268,12 +268,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682471",
