@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T12:43:37.570Z",
+  "generatedAt": "2026-06-17T16:28:44.805Z",
   "week": {
     "days": [
       "TER",
@@ -65,7 +65,7 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 57,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "planning",
@@ -84,7 +84,7 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 27,
+      "progress": 26,
       "idleDays": 0,
       "week": [
         "idle",
@@ -98,14 +98,14 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 27
+        "doneCount": 26
       }
     },
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 16,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "design",
@@ -148,8 +148,8 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -169,7 +169,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -208,7 +208,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -224,12 +224,12 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 35,
-      "idleDays": 1,
+      "progress": 34,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -238,7 +238,7 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 35
+        "doneCount": 34
       }
     },
     {
@@ -249,7 +249,7 @@
       "week": [
         "approval",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
