@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T12:32:46.481Z",
+  "generatedAt": "2026-06-18T16:02:42.968Z",
   "week": {
     "days": [
       "TER",
@@ -104,12 +104,12 @@
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 28,
+      "progress": 29,
       "idleDays": 0,
       "week": [
         "done",
         "design",
-        "idle",
+        "design",
         "design",
         "idle",
         "idle",
@@ -118,7 +118,7 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 28
+        "doneCount": 29
       }
     },
     {
@@ -209,7 +209,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
