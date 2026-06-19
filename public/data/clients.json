@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T18:24:32.566Z",
+  "generatedAt": "2026-06-19T20:12:35.428Z",
   "week": {
     "days": [
       "TER",
@@ -24,7 +24,7 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 35,
+      "progress": 36,
       "idleDays": 0,
       "week": [
         "idle",
@@ -38,7 +38,7 @@
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 35
+        "doneCount": 36
       }
     },
     {
@@ -133,7 +133,7 @@
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682275",
@@ -153,7 +153,7 @@
         "idle",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -204,7 +204,7 @@
     {
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
-      "progress": 12,
+      "progress": 11,
       "idleDays": 0,
       "week": [
         "idle",
@@ -218,7 +218,7 @@
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 12
+        "doneCount": 11
       }
     },
     {
@@ -244,7 +244,7 @@
     {
       "name": "Mysla.br ",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 20,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "approval",
@@ -257,7 +257,7 @@
       ],
       "_meta": {
         "listId": "901327219040",
-        "taskCount": 51,
+        "taskCount": 52,
         "doneCount": 10
       }
     },
