@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T17:59:14.169Z",
+  "generatedAt": "2026-06-21T19:51:16.879Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 36,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 23,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "done",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
       "progress": 11,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 34,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "Mysla.br ",
       "owner": "Isadora Coelho Cosmo",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "approval",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
