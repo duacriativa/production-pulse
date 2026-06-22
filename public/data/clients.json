@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T07:41:33.297Z",
+  "generatedAt": "2026-06-22T13:18:37.613Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 36,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -64,8 +64,8 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 55,
-      "idleDays": 2,
+      "progress": 53,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -78,14 +78,14 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 55
+        "doneCount": 53
       }
     },
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 24,
-      "idleDays": 1,
+      "progress": 23,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -98,14 +98,14 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 24
+        "doneCount": 23
       }
     },
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 23,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "done",
         "idle",
@@ -113,7 +113,7 @@
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614721",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -133,7 +133,7 @@
         "idle",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682275",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 19,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -153,7 +153,7 @@
         "idle",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 8,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -184,13 +184,13 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 25,
-      "idleDays": 2,
+      "progress": 21,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -198,19 +198,19 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 25
+        "doneCount": 21
       }
     },
     {
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
-      "progress": 11,
-      "idleDays": 2,
+      "progress": 10,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -218,14 +218,14 @@
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 11
+        "doneCount": 10
       }
     },
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 34,
-      "idleDays": 2,
+      "progress": 33,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -238,34 +238,34 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 34
+        "doneCount": 33
       }
     },
     {
       "name": "Mysla.br ",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 19,
-      "idleDays": 2,
+      "progress": 15,
+      "idleDays": 0,
       "week": [
         "approval",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
       ],
       "_meta": {
         "listId": "901327219040",
-        "taskCount": 52,
+        "taskCount": 66,
         "doneCount": 10
       }
     },
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 17,
-      "idleDays": 2,
+      "progress": 14,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -278,7 +278,7 @@
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 14
       }
     }
   ]
