@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T23:50:20.994Z",
+  "generatedAt": "2026-06-23T01:51:19.541Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "16/06",
-      "17/06",
-      "18/06",
-      "19/06",
-      "20/06",
-      "21/06",
-      "22/06"
+      "23/06",
+      "24/06",
+      "25/06",
+      "26/06",
+      "27/06",
+      "28/06",
+      "29/06"
     ]
   },
   "clients": [
@@ -27,13 +27,13 @@
       "progress": 39,
       "idleDays": 0,
       "week": [
-        "done",
+        "idle",
+        "design",
+        "design",
         "idle",
         "idle",
-        "done",
         "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326685391",
@@ -45,12 +45,12 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
-        "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -67,8 +67,8 @@
       "progress": 54,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
+        "design",
+        "planning",
         "idle",
         "idle",
         "idle",
@@ -88,12 +88,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "approval",
+        "design",
+        "design",
         "idle",
         "idle",
-        "done",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
@@ -107,10 +107,10 @@
       "progress": 23,
       "idleDays": 0,
       "week": [
-        "done",
-        "idle",
         "design",
-        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -127,10 +127,10 @@
       "progress": 17,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -147,13 +147,13 @@
       "progress": 22,
       "idleDays": 0,
       "week": [
+        "design",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "done",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -167,10 +167,10 @@
       "progress": 8,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
-        "idle",
         "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -187,13 +187,13 @@
       "progress": 21,
       "idleDays": 0,
       "week": [
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682326",
@@ -208,12 +208,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901326977055",
@@ -228,12 +228,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
-        "approval",
-        "idle",
+        "planning",
         "idle",
         "idle",
-        "idle"
+        "idle",
+        "idle",
+        "design"
       ],
       "_meta": {
         "listId": "901324682343",
@@ -247,10 +247,10 @@
       "progress": 15,
       "idleDays": 0,
       "week": [
-        "approval",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "planning",
+        "planning",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -268,12 +268,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682471",
