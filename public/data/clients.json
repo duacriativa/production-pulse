@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T12:22:44.949Z",
+  "generatedAt": "2026-06-23T15:29:09.674Z",
   "week": {
     "days": [
       "TER",
@@ -89,7 +89,7 @@
       "week": [
         "idle",
         "approval",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 23,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "planning",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "planning",
@@ -165,12 +165,12 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 8,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -184,21 +184,21 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 21,
-      "idleDays": 1,
+      "progress": 28,
+      "idleDays": 0,
       "week": [
+        "done",
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 21
+        "doneCount": 28
       }
     },
     {
@@ -224,13 +224,13 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 33,
-      "idleDays": 1,
+      "progress": 37,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "design"
@@ -238,7 +238,7 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 33
+        "doneCount": 37
       }
     },
     {
@@ -248,8 +248,8 @@
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "design",
         "idle",
         "idle",
