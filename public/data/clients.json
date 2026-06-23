@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T17:27:22.331Z",
+  "generatedAt": "2026-06-23T19:27:32.205Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 39,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -44,21 +44,21 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
-      "idleDays": 3,
+      "progress": 20,
+      "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 20
       }
     },
     {
@@ -128,7 +128,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "planning",
         "design",
         "design",
         "idle",
@@ -204,21 +204,21 @@
     {
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
-      "progress": 10,
+      "progress": 12,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 10
+        "doneCount": 12
       }
     },
     {
@@ -228,7 +228,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
