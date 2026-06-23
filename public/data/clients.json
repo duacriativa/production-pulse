@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T15:29:09.674Z",
+  "generatedAt": "2026-06-23T17:27:22.331Z",
   "week": {
     "days": [
       "TER",
@@ -128,9 +128,9 @@
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -168,7 +168,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "planning",
         "design",
         "design",
         "idle",
@@ -193,7 +193,7 @@
         "design",
         "idle",
         "idle",
-        "planning"
+        "design"
       ],
       "_meta": {
         "listId": "901324682326",
@@ -264,13 +264,13 @@
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 14,
-      "idleDays": 1,
+      "progress": 17,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "design"
@@ -278,7 +278,7 @@
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 14
+        "doneCount": 17
       }
     }
   ]
