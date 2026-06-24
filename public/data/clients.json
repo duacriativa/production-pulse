@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T18:03:51.953Z",
+  "generatedAt": "2026-06-24T20:02:01.155Z",
   "week": {
     "days": [
       "TER",
@@ -84,8 +84,8 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 24,
-      "idleDays": 1,
+      "progress": 23,
+      "idleDays": 0,
       "week": [
         "idle",
         "approval",
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 24
+        "doneCount": 23
       }
     },
     {
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "planning",
@@ -168,7 +168,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
+        "idle",
         "design",
         "design",
         "idle",
@@ -177,7 +177,7 @@
       ],
       "_meta": {
         "listId": "901326911788",
-        "taskCount": 100,
+        "taskCount": 98,
         "doneCount": 8
       }
     },
@@ -268,9 +268,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
         "idle",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
