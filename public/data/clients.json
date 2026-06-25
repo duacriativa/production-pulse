@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T21:10:12.396Z",
+  "generatedAt": "2026-06-25T22:44:52.835Z",
   "week": {
     "days": [
       "TER",
@@ -189,7 +189,7 @@
       "week": [
         "design",
         "planning",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -225,11 +225,11 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 37,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -244,12 +244,12 @@
     {
       "name": "Mysla.br ",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 15,
+      "progress": 19,
       "idleDays": 0,
       "week": [
-        "design",
-        "planning",
-        "planning",
+        "idle",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -257,7 +257,7 @@
       ],
       "_meta": {
         "listId": "901327219040",
-        "taskCount": 66,
+        "taskCount": 52,
         "doneCount": 10
       }
     },
