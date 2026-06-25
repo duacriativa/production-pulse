@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T12:15:16.037Z",
+  "generatedAt": "2026-06-25T15:18:22.684Z",
   "week": {
     "days": [
       "TER",
@@ -25,15 +25,15 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 39,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901326685391",
@@ -65,9 +65,9 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 54,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "planning",
         "idle",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 23,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "design",
         "planning",
