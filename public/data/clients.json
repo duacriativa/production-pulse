@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T22:07:36.263Z",
+  "generatedAt": "2026-06-26T23:21:22.998Z",
   "week": {
     "days": [
       "TER",
@@ -130,7 +130,7 @@
         "planning",
         "planning",
         "planning",
-        "design",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 27,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "planning",
