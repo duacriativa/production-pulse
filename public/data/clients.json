@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T17:20:06.002Z",
+  "generatedAt": "2026-06-26T19:12:21.906Z",
   "week": {
     "days": [
       "TER",
@@ -205,7 +205,7 @@
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
       "progress": 12,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
