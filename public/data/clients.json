@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T20:55:11.497Z",
+  "generatedAt": "2026-06-26T22:07:36.263Z",
   "week": {
     "days": [
       "TER",
@@ -127,7 +127,7 @@
       "progress": 17,
       "idleDays": 0,
       "week": [
-        "design",
+        "planning",
         "planning",
         "planning",
         "design",
@@ -150,7 +150,7 @@
         "design",
         "idle",
         "idle",
-        "design",
+        "approval",
         "idle",
         "idle",
         "design"
@@ -165,11 +165,11 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 8,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
-        "design",
+        "approval",
         "design",
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 37,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
