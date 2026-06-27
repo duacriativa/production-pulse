@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T20:44:48.593Z",
+  "generatedAt": "2026-06-27T21:45:23.946Z",
   "week": {
     "days": [
       "TER",
@@ -245,7 +245,7 @@
       "name": "Mysla.br ",
       "owner": "Isadora Coelho Cosmo",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
