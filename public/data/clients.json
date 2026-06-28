@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T12:49:49.126Z",
+  "generatedAt": "2026-06-28T14:29:10.328Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 39,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -85,7 +85,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 22,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "approval",
@@ -265,7 +265,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
