@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T01:53:55.651Z",
+  "generatedAt": "2026-06-28T06:08:19.364Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 23,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "planning",
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 27,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "planning",
