@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T16:06:35.927Z",
+  "generatedAt": "2026-06-30T18:08:54.189Z",
   "week": {
     "days": [
       "TER",
@@ -44,21 +44,21 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
-      "idleDays": 1,
+      "progress": 21,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
         "design",
-        "planning",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 21
       }
     },
     {
@@ -204,21 +204,21 @@
     {
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
-      "progress": 11,
-      "idleDays": 1,
+      "progress": 12,
+      "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 11
+        "doneCount": 12
       }
     },
     {
