@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T23:40:48.387Z",
+  "generatedAt": "2026-06-30T01:37:08.035Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "23/06",
-      "24/06",
-      "25/06",
-      "26/06",
-      "27/06",
-      "28/06",
-      "29/06"
+      "30/06",
+      "01/07",
+      "02/07",
+      "03/07",
+      "04/07",
+      "05/07",
+      "06/07"
     ]
   },
   "clients": [
@@ -28,12 +28,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
         "idle",
         "idle",
         "idle",
         "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326685391",
@@ -48,9 +48,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "planning",
+        "design",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -70,7 +70,7 @@
         "idle",
         "planning",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -87,10 +87,10 @@
       "progress": 21,
       "idleDays": 0,
       "week": [
-        "idle",
-        "approval",
-        "idle",
-        "approval",
+        "planning",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -107,10 +107,10 @@
       "progress": 27,
       "idleDays": 0,
       "week": [
-        "done",
-        "idle",
-        "idle",
+        "design",
         "planning",
+        "planning",
+        "done",
         "idle",
         "idle",
         "idle"
@@ -127,10 +127,10 @@
       "progress": 18,
       "idleDays": 0,
       "week": [
+        "design",
         "planning",
-        "idle",
-        "idle",
-        "idle",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -147,10 +147,10 @@
       "progress": 21,
       "idleDays": 0,
       "week": [
-        "done",
-        "idle",
-        "idle",
-        "approval",
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -167,10 +167,10 @@
       "progress": 8,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
-        "approval",
-        "idle",
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -187,10 +187,10 @@
       "progress": 23,
       "idleDays": 0,
       "week": [
-        "idle",
+        "design",
         "planning",
-        "idle",
-        "idle",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "design"
@@ -207,10 +207,10 @@
       "progress": 11,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -228,9 +228,9 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
         "design"
@@ -247,10 +247,10 @@
       "progress": 17,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -268,12 +268,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682471",
