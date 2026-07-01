@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T16:24:48.034Z",
+  "generatedAt": "2026-07-01T18:22:26.110Z",
   "week": {
     "days": [
       "TER",
@@ -64,11 +64,11 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 50,
-      "idleDays": 2,
+      "progress": 49,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "idle",
         "idle",
         "design",
         "idle",
@@ -78,7 +78,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 50
+        "doneCount": 49
       }
     },
     {
@@ -129,7 +129,7 @@
       "week": [
         "design",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -230,7 +230,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
