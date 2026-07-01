@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T18:22:26.110Z",
+  "generatedAt": "2026-07-01T20:20:10.164Z",
   "week": {
     "days": [
       "TER",
@@ -68,7 +68,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
+        "planning",
         "idle",
         "design",
         "idle",
@@ -104,11 +104,11 @@
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 27,
+      "progress": 28,
       "idleDays": 0,
       "week": [
         "design",
-        "idle",
+        "design",
         "design",
         "done",
         "idle",
@@ -118,7 +118,7 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 27
+        "doneCount": 28
       }
     },
     {
@@ -165,11 +165,11 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 8,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
