@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T16:25:45.648Z",
+  "generatedAt": "2026-07-02T18:11:53.176Z",
   "week": {
     "days": [
       "TER",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 36,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
