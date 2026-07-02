@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T12:26:57.800Z",
+  "generatedAt": "2026-07-02T14:38:28.849Z",
   "week": {
     "days": [
       "TER",
@@ -42,6 +42,26 @@
       }
     },
     {
+      "name": "Del Carmen",
+      "owner": "Ciane DuaCriativa",
+      "progress": 24,
+      "idleDays": 1,
+      "week": [
+        "planning",
+        "approval",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324614474",
+        "taskCount": 100,
+        "doneCount": 24
+      }
+    },
+    {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
@@ -79,26 +99,6 @@
         "listId": "901324614041",
         "taskCount": 100,
         "doneCount": 49
-      }
-    },
-    {
-      "name": "Del Carmen",
-      "owner": "Ciane DuaCriativa",
-      "progress": 24,
-      "idleDays": 1,
-      "week": [
-        "planning",
-        "approval",
-        "design",
-        "design",
-        "idle",
-        "idle",
-        "design"
-      ],
-      "_meta": {
-        "listId": "901324614474",
-        "taskCount": 100,
-        "doneCount": 24
       }
     },
     {
@@ -259,6 +259,26 @@
         "listId": "901327219040",
         "taskCount": 60,
         "doneCount": 10
+      }
+    },
+    {
+      "name": "Mavix",
+      "owner": "Davila Rocha",
+      "progress": 0,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "_meta": {
+        "listId": "901327732420",
+        "taskCount": 15,
+        "doneCount": 0
       }
     },
     {
