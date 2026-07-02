@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T21:53:02.422Z",
+  "generatedAt": "2026-07-02T22:54:52.696Z",
   "week": {
     "days": [
       "TER",
@@ -45,11 +45,11 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 24,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "planning",
         "approval",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 25,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "idle",
