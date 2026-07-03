@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T13:59:16.613Z",
+  "generatedAt": "2026-07-03T15:55:21.294Z",
   "week": {
     "days": [
       "TER",
@@ -70,7 +70,7 @@
         "idle",
         "idle",
         "design",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -84,7 +84,7 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 49,
+      "progress": 46,
       "idleDays": 0,
       "week": [
         "idle",
@@ -98,17 +98,17 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 49
+        "doneCount": 46
       }
     },
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 28,
+      "progress": 31,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
+        "done",
+        "done",
         "idle",
         "done",
         "idle",
@@ -118,16 +118,16 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 28
+        "doneCount": 31
       }
     },
     {
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
-      "progress": 18,
+      "progress": 29,
       "idleDays": 0,
       "week": [
-        "design",
+        "done",
         "idle",
         "idle",
         "design",
@@ -138,16 +138,16 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 29
       }
     },
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 23,
+      "progress": 24,
       "idleDays": 0,
       "week": [
-        "approval",
+        "idle",
         "design",
         "idle",
         "design",
@@ -158,16 +158,16 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 23
+        "doneCount": 24
       }
     },
     {
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 8,
-      "idleDays": 1,
+      "progress": 17,
+      "idleDays": 0,
       "week": [
-        "design",
+        "done",
         "idle",
         "idle",
         "design",
@@ -178,16 +178,16 @@
       "_meta": {
         "listId": "901326911788",
         "taskCount": 100,
-        "doneCount": 8
+        "doneCount": 17
       }
     },
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 25,
+      "progress": 26,
       "idleDays": 0,
       "week": [
-        "design",
+        "done",
         "idle",
         "idle",
         "idle",
@@ -198,7 +198,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 25
+        "doneCount": 26
       }
     },
     {
