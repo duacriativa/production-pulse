@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T16:17:31.731Z",
+  "generatedAt": "2026-07-04T17:30:54.472Z",
   "week": {
     "days": [
       "TER",
@@ -225,7 +225,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 36,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
