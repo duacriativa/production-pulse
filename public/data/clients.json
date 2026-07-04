@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T21:38:34.755Z",
+  "generatedAt": "2026-07-04T22:37:24.217Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 24,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "planning",
         "approval",
