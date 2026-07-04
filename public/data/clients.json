@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:49:07.887Z",
+  "generatedAt": "2026-07-04T20:39:35.566Z",
   "week": {
     "days": [
       "TER",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 29,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "done",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
       "progress": 12,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
