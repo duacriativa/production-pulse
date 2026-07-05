@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T14:00:10.217Z",
+  "generatedAt": "2026-07-05T15:19:08.107Z",
   "week": {
     "days": [
       "TER",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "done",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 26,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "done",
         "idle",
