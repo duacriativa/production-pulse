@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T17:38:22.877Z",
+  "generatedAt": "2026-07-05T18:42:05.241Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 31,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "done",
         "done",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 29,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "done",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 24,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "design",
