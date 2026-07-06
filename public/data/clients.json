@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T18:19:24.311Z",
+  "generatedAt": "2026-07-06T20:17:35.113Z",
   "week": {
     "days": [
       "TER",
@@ -24,13 +24,13 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 40,
+      "progress": 41,
       "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "idle",
+        "done",
         "idle",
         "idle",
         "design"
@@ -38,7 +38,7 @@
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 40
+        "doneCount": 41
       }
     },
     {
@@ -224,7 +224,7 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 37,
+      "progress": 36,
       "idleDays": 0,
       "week": [
         "idle",
@@ -238,7 +238,7 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 37
+        "doneCount": 36
       }
     },
     {
