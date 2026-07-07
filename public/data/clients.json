@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T17:34:25.340Z",
+  "generatedAt": "2026-07-07T19:23:41.256Z",
   "week": {
     "days": [
       "TER",
@@ -28,9 +28,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
-        "design",
+        "planning",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -69,11 +69,11 @@
       "week": [
         "idle",
         "design",
+        "design",
+        "design",
         "idle",
-        "planning",
         "idle",
-        "idle",
-        "planning"
+        "design"
       ],
       "_meta": {
         "listId": "901324613220",
@@ -90,7 +90,7 @@
         "idle",
         "design",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -128,8 +128,8 @@
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
+        "design",
+        "idle",
         "planning",
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 17,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "design",
