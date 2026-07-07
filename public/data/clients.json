@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T23:54:16.714Z",
+  "generatedAt": "2026-07-07T02:12:17.151Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "30/06",
-      "01/07",
-      "02/07",
-      "03/07",
-      "04/07",
-      "05/07",
-      "06/07"
+      "07/07",
+      "08/07",
+      "09/07",
+      "10/07",
+      "11/07",
+      "12/07",
+      "13/07"
     ]
   },
   "clients": [
@@ -28,9 +28,9 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "design",
         "idle",
         "idle",
-        "done",
         "idle",
         "idle",
         "design"
@@ -47,13 +47,13 @@
       "progress": 17,
       "idleDays": 0,
       "week": [
-        "planning",
-        "approval",
         "idle",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
@@ -65,12 +65,12 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -88,9 +88,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "approval",
-        "idle",
         "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -107,10 +107,10 @@
       "progress": 30,
       "idleDays": 0,
       "week": [
-        "done",
-        "done",
-        "idle",
-        "done",
+        "design",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -127,10 +127,10 @@
       "progress": 25,
       "idleDays": 0,
       "week": [
-        "done",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -147,10 +147,10 @@
       "progress": 18,
       "idleDays": 0,
       "week": [
-        "done",
+        "idle",
+        "planning",
+        "planning",
         "design",
-        "idle",
-        "idle",
         "idle",
         "idle",
         "design"
@@ -167,10 +167,10 @@
       "progress": 17,
       "idleDays": 0,
       "week": [
-        "done",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -187,13 +187,13 @@
       "progress": 21,
       "idleDays": 0,
       "week": [
-        "done",
+        "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682326",
@@ -205,12 +205,12 @@
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
       "progress": 12,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "planning",
+        "planning",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -228,12 +228,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "design",
+        "idle",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "done"
+        "design"
       ],
       "_meta": {
         "listId": "901324682343",
@@ -245,12 +245,12 @@
       "name": "Mysla.br ",
       "owner": "Isadora Coelho Cosmo",
       "progress": 15,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
-        "approval",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -268,7 +268,7 @@
       "idleDays": 4,
       "week": [
         "idle",
-        "idle",
+        "planning",
         "idle",
         "idle",
         "idle",
@@ -285,12 +285,12 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 15,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
