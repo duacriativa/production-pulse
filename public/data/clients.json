@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T15:32:33.764Z",
+  "generatedAt": "2026-07-07T17:34:25.340Z",
   "week": {
     "days": [
       "TER",
@@ -64,21 +64,21 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
+      "progress": 20,
       "idleDays": 0,
       "week": [
         "idle",
         "design",
-        "planning",
+        "idle",
         "planning",
         "idle",
         "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 20
       }
     },
     {
@@ -124,8 +124,8 @@
     {
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
-      "progress": 25,
-      "idleDays": 1,
+      "progress": 24,
+      "idleDays": 0,
       "week": [
         "design",
         "planning",
@@ -138,7 +138,7 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 25
+        "doneCount": 24
       }
     },
     {
@@ -147,7 +147,7 @@
       "progress": 18,
       "idleDays": 0,
       "week": [
-        "idle",
+        "design",
         "planning",
         "planning",
         "design",
@@ -184,21 +184,21 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 21,
+      "progress": 22,
       "idleDays": 0,
       "week": [
+        "design",
+        "design",
+        "design",
+        "design",
         "idle",
-        "planning",
-        "planning",
-        "planning",
         "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 21
+        "doneCount": 22
       }
     },
     {
@@ -244,20 +244,20 @@
     {
       "name": "Mysla.br ",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 15,
+      "progress": 14,
       "idleDays": 0,
       "week": [
         "idle",
         "planning",
         "planning",
-        "planning",
+        "design",
         "idle",
         "idle",
         "idle"
       ],
       "_meta": {
         "listId": "901327219040",
-        "taskCount": 68,
+        "taskCount": 69,
         "doneCount": 10
       }
     },
