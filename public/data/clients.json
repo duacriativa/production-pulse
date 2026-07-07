@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T12:34:29.582Z",
+  "generatedAt": "2026-07-07T15:32:33.764Z",
   "week": {
     "days": [
       "TER",
@@ -29,8 +29,8 @@
       "week": [
         "idle",
         "design",
-        "idle",
-        "idle",
+        "design",
+        "design",
         "idle",
         "idle",
         "design"
@@ -44,10 +44,10 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 17,
+      "progress": 19,
       "idleDays": 0,
       "week": [
-        "idle",
+        "design",
         "design",
         "design",
         "design",
@@ -58,14 +58,14 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 19
       }
     },
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 25,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "planning",
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "planning",
@@ -284,21 +284,21 @@
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 15,
-      "idleDays": 1,
+      "progress": 16,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 15
+        "doneCount": 16
       }
     }
   ]
