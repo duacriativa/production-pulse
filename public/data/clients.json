@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T11:43:04.968Z",
+  "generatedAt": "2026-07-09T14:13:42.127Z",
   "week": {
     "days": [
       "TER",
@@ -127,8 +127,8 @@
       "progress": 24,
       "idleDays": 0,
       "week": [
-        "design",
         "planning",
+        "design",
         "idle",
         "design",
         "idle",
@@ -204,21 +204,21 @@
     {
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
-      "progress": 12,
-      "idleDays": 3,
+      "progress": 13,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 12
+        "doneCount": 13
       }
     },
     {
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 6,
+      "idleDays": 7,
       "week": [
         "idle",
         "planning",
