@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T23:32:24.235Z",
+  "generatedAt": "2026-07-11T01:02:23.961Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "planning",
@@ -70,10 +70,10 @@
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324613220",
