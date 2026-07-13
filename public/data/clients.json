@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:00:14.058Z",
+  "generatedAt": "2026-07-13T20:19:48.906Z",
   "week": {
     "days": [
       "TER",
@@ -204,7 +204,7 @@
     {
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
-      "progress": 13,
+      "progress": 14,
       "idleDays": 0,
       "week": [
         "idle",
@@ -218,7 +218,7 @@
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 13
+        "doneCount": 14
       }
     },
     {
