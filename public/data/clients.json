@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T12:36:43.830Z",
+  "generatedAt": "2026-07-13T15:32:14.396Z",
   "week": {
     "days": [
       "TER",
@@ -110,7 +110,7 @@
         "done",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -150,10 +150,10 @@
         "done",
         "planning",
         "planning",
-        "design",
+        "planning",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -187,13 +187,13 @@
       "progress": 17,
       "idleDays": 0,
       "week": [
-        "design",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324682326",
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 10,
+      "idleDays": 11,
       "week": [
         "idle",
         "planning",
