@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T17:12:24.860Z",
+  "generatedAt": "2026-07-14T18:16:47.078Z",
   "week": {
     "days": [
       "TER",
@@ -85,7 +85,7 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 51,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -148,8 +148,8 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -184,7 +184,7 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 17,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "idle",
@@ -198,7 +198,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 18
       }
     },
     {
@@ -265,12 +265,12 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 12,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "idle",
+        "planning",
         "idle",
         "idle",
         "idle"
