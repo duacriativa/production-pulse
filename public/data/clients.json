@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:38:39.255Z",
+  "generatedAt": "2026-07-14T23:30:55.532Z",
   "week": {
     "days": [
       "TER",
@@ -84,11 +84,11 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 51,
-      "idleDays": 1,
+      "progress": 50,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 51
+        "doneCount": 50
       }
     },
     {
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "planning",
