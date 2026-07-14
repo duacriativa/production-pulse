@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T12:38:41.714Z",
+  "generatedAt": "2026-07-14T14:27:31.490Z",
   "week": {
     "days": [
       "TER",
@@ -44,21 +44,21 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 17,
-      "idleDays": 1,
+      "progress": 21,
+      "idleDays": 0,
       "week": [
-        "planning",
-        "planning",
-        "planning",
-        "planning",
+        "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 21
       }
     },
     {
@@ -110,7 +110,7 @@
         "design",
         "planning",
         "design",
-        "planning",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -204,13 +204,13 @@
     {
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
-      "progress": 14,
+      "progress": 15,
       "idleDays": 0,
       "week": [
         "idle",
         "design",
         "design",
-        "planning",
+        "design",
         "idle",
         "idle",
         "design"
@@ -218,7 +218,7 @@
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 14
+        "doneCount": 15
       }
     },
     {
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 11,
+      "idleDays": 12,
       "week": [
         "idle",
         "idle",
