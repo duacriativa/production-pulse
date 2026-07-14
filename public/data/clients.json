@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T18:16:47.078Z",
+  "generatedAt": "2026-07-14T20:45:09.610Z",
   "week": {
     "days": [
       "TER",
@@ -65,7 +65,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
+        "design",
         "design",
         "design",
         "idle",
@@ -150,7 +150,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -285,7 +285,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
