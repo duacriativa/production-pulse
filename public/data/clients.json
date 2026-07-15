@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T20:12:41.031Z",
+  "generatedAt": "2026-07-15T21:15:13.776Z",
   "week": {
     "days": [
       "TER",
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "idle",
         "design",
         "idle",
