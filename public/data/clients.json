@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:15:20.596Z",
+  "generatedAt": "2026-07-15T23:14:18.007Z",
   "week": {
     "days": [
       "TER",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 17,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "design",
         "planning",
