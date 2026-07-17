@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:32:00.589Z",
+  "generatedAt": "2026-07-17T01:04:08.891Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 26,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 17,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "design",
         "planning",
@@ -210,10 +210,10 @@
         "idle",
         "idle",
         "design",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901326977055",
@@ -225,7 +225,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 33,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
