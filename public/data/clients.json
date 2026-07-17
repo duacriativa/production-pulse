@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T19:14:06.016Z",
+  "generatedAt": "2026-07-17T20:14:27.380Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 41,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "approval",
         "planning",
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -209,8 +209,8 @@
       "week": [
         "idle",
         "idle",
-        "design",
         "idle",
+        "planning",
         "idle",
         "idle",
         "idle"
