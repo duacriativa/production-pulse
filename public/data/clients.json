@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T20:32:07.730Z",
+  "generatedAt": "2026-07-18T21:27:59.292Z",
   "week": {
     "days": [
       "TER",
@@ -65,7 +65,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "approval",
