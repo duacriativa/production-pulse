@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T17:39:09.998Z",
+  "generatedAt": "2026-07-18T18:34:48.688Z",
   "week": {
     "days": [
       "TER",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "idle",
