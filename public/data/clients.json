@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T18:08:09.329Z",
+  "generatedAt": "2026-07-19T19:22:32.283Z",
   "week": {
     "days": [
       "TER",
@@ -44,8 +44,8 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 21,
-      "idleDays": 1,
+      "progress": 19,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -58,7 +58,7 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 21
+        "doneCount": 19
       }
     },
     {
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "design",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "idle",
