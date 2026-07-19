@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T00:13:57.169Z",
+  "generatedAt": "2026-07-19T03:56:26.543Z",
   "week": {
     "days": [
       "TER",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Isadora Coelho Cosmo",
       "progress": 17,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "planning",
