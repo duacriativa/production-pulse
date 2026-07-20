@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T19:59:53.144Z",
+  "generatedAt": "2026-07-20T21:16:44.367Z",
   "week": {
     "days": [
       "TER",
@@ -85,7 +85,7 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 47,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "approval",
@@ -123,7 +123,7 @@
     },
     {
       "name": "Eloah",
-      "owner": "Ciane DuaCriativa",
+      "owner": "Luana Vieira",
       "progress": 13,
       "idleDays": 0,
       "week": [
