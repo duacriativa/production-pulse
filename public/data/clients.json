@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T12:06:04.616Z",
+  "generatedAt": "2026-07-20T14:30:18.914Z",
   "week": {
     "days": [
       "TER",
@@ -133,7 +133,7 @@
         "idle",
         "idle",
         "idle",
-        "planning"
+        "design"
       ],
       "_meta": {
         "listId": "901324682275",
@@ -222,6 +222,26 @@
       }
     },
     {
+      "name": "Maré Fitness RJ",
+      "owner": "—",
+      "progress": 0,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "_meta": {
+        "listId": "901327915140",
+        "taskCount": 64,
+        "doneCount": 0
+      }
+    },
+    {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 32,
@@ -239,26 +259,6 @@
         "listId": "901324682343",
         "taskCount": 100,
         "doneCount": 32
-      }
-    },
-    {
-      "name": "Mysla.br ",
-      "owner": "Isadora Coelho Cosmo",
-      "progress": 13,
-      "idleDays": 5,
-      "week": [
-        "design",
-        "planning",
-        "planning",
-        "planning",
-        "idle",
-        "idle",
-        "idle"
-      ],
-      "_meta": {
-        "listId": "901327219040",
-        "taskCount": 78,
-        "doneCount": 10
       }
     },
     {
