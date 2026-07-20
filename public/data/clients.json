@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:16:44.367Z",
+  "generatedAt": "2026-07-20T22:15:11.699Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 41,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "done",
         "done",
@@ -205,7 +205,7 @@
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
