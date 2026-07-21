@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:45:11.905Z",
+  "generatedAt": "2026-07-21T14:49:34.332Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 41,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "planning",
@@ -105,12 +105,12 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 24,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
