@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T16:09:37.314Z",
+  "generatedAt": "2026-07-21T18:56:11.990Z",
   "week": {
     "days": [
       "TER",
@@ -24,28 +24,28 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 41,
+      "progress": 42,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
+        "idle",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 41
+        "doneCount": 42
       }
     },
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "design",
@@ -64,31 +64,31 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 17,
+      "progress": 21,
       "idleDays": 0,
       "week": [
         "idle",
         "design",
         "design",
-        "planning",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 21
       }
     },
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 47,
-      "idleDays": 1,
+      "progress": 46,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 47
+        "doneCount": 46
       }
     },
     {
@@ -107,7 +107,7 @@
       "progress": 24,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "design",
         "design",
         "design",
@@ -244,21 +244,21 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 32,
+      "progress": 34,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 32
+        "doneCount": 34
       }
     },
     {
