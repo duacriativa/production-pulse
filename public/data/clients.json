@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T21:35:14.748Z",
+  "generatedAt": "2026-07-21T22:31:41.883Z",
   "week": {
     "days": [
       "TER",
@@ -108,8 +108,8 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Luana Vieira",
       "progress": 14,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "planning",
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "planning",
