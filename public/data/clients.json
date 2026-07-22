@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:28:04.643Z",
+  "generatedAt": "2026-07-22T23:30:59.091Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 24,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "planning",
