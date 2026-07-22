@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T21:18:32.083Z",
+  "generatedAt": "2026-07-22T22:28:04.643Z",
   "week": {
     "days": [
       "TER",
@@ -48,7 +48,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "design",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Luana Vieira",
       "progress": 14,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "design",
         "planning",
