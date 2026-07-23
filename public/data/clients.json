@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:38:57.739Z",
+  "generatedAt": "2026-07-23T20:40:30.570Z",
   "week": {
     "days": [
       "TER",
@@ -24,8 +24,8 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 42,
-      "idleDays": 1,
+      "progress": 41,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -38,7 +38,7 @@
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 42
+        "doneCount": 41
       }
     },
     {
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 34,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "planning",
