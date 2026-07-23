@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T11:26:48.510Z",
+  "generatedAt": "2026-07-23T12:58:23.455Z",
   "week": {
     "days": [
       "TER",
@@ -225,7 +225,7 @@
       "name": "Maré Fitness RJ",
       "owner": "—",
       "progress": 0,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
