@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T21:41:25.919Z",
+  "generatedAt": "2026-07-23T22:38:11.626Z",
   "week": {
     "days": [
       "TER",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Luana Vieira",
       "progress": 14,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "design",
         "planning",
@@ -205,7 +205,7 @@
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
