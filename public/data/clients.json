@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:54:17.368Z",
+  "generatedAt": "2026-07-24T17:21:21.870Z",
   "week": {
     "days": [
       "TER",
@@ -265,7 +265,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
