@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:17:54.292Z",
+  "generatedAt": "2026-07-24T22:29:50.141Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "idle",
@@ -90,7 +90,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 13,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Luana Vieira",
       "progress": 14,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "design",
         "planning",
