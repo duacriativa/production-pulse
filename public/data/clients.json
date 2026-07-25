@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T19:45:23.355Z",
+  "generatedAt": "2026-07-25T20:34:08.243Z",
   "week": {
     "days": [
       "TER",
@@ -185,7 +185,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 34,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "planning",
