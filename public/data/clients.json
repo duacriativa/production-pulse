@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:29:30.483Z",
+  "generatedAt": "2026-07-25T22:28:27.351Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Jenni Pink",
       "owner": "Luana Vieira",
       "progress": 14,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "design",
         "planning",
@@ -205,7 +205,7 @@
       "name": "Mandi - SSA",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
