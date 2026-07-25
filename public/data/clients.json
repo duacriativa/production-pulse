@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T12:36:52.712Z",
+  "generatedAt": "2026-07-25T14:14:35.931Z",
   "week": {
     "days": [
       "TER",
@@ -84,7 +84,7 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 46,
+      "progress": 47,
       "idleDays": 0,
       "week": [
         "idle",
@@ -93,12 +93,12 @@
         "idle",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 46
+        "doneCount": 47
       }
     },
     {
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Maré Fitness RJ",
       "owner": "—",
       "progress": 0,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "idle",
@@ -285,7 +285,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 14,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
