@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T01:09:06.684Z",
+  "generatedAt": "2026-07-26T04:37:58.994Z",
   "week": {
     "days": [
       "TER",
@@ -64,7 +64,7 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 20,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "idle",
@@ -78,7 +78,7 @@
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 20
+        "doneCount": 19
       }
     },
     {
@@ -104,7 +104,7 @@
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 24,
+      "progress": 23,
       "idleDays": 0,
       "week": [
         "idle",
@@ -118,14 +118,14 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 24
+        "doneCount": 23
       }
     },
     {
       "name": "Eloah",
       "owner": "Luana Vieira",
-      "progress": 13,
-      "idleDays": 1,
+      "progress": 12,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
@@ -133,19 +133,19 @@
         "idle",
         "idle",
         "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 13
+        "doneCount": 12
       }
     },
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 19,
-      "idleDays": 1,
+      "progress": 18,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -158,34 +158,14 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 19
-      }
-    },
-    {
-      "name": "Jenni Pink",
-      "owner": "Luana Vieira",
-      "progress": 14,
-      "idleDays": 6,
-      "week": [
-        "design",
-        "planning",
-        "planning",
-        "planning",
-        "idle",
-        "idle",
-        "idle"
-      ],
-      "_meta": {
-        "listId": "901326911788",
-        "taskCount": 100,
-        "doneCount": 14
+        "doneCount": 18
       }
     },
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -203,8 +183,8 @@
     },
     {
       "name": "Mandi - SSA",
-      "owner": "Luana Vieira",
-      "progress": 15,
+      "owner": "Ciane DuaCriativa",
+      "progress": 13,
       "idleDays": 0,
       "week": [
         "idle",
@@ -218,14 +198,14 @@
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 15
+        "doneCount": 13
       }
     },
     {
       "name": "Maré Fitness RJ",
-      "owner": "—",
+      "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 5,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -237,7 +217,7 @@
       ],
       "_meta": {
         "listId": "901327915140",
-        "taskCount": 64,
+        "taskCount": 41,
         "doneCount": 0
       }
     },
@@ -245,15 +225,15 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 34,
-      "idleDays": 4,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
         "idle",
         "idle",
         "idle",
         "idle",
-        "idle"
+        "idle",
+        "planning"
       ],
       "_meta": {
         "listId": "901324682343",
@@ -265,7 +245,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
@@ -277,15 +257,15 @@
       ],
       "_meta": {
         "listId": "901327732420",
-        "taskCount": 21,
+        "taskCount": 29,
         "doneCount": 0
       }
     },
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 14,
-      "idleDays": 3,
+      "progress": 13,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -298,7 +278,7 @@
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 14
+        "doneCount": 13
       }
     }
   ]
