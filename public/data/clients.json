@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T18:01:08.358Z",
+  "generatedAt": "2026-07-27T19:47:03.614Z",
   "week": {
     "days": [
       "TER",
@@ -24,28 +24,28 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 40,
-      "idleDays": 1,
+      "progress": 41,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "approval",
+        "done",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 40
+        "doneCount": 41
       }
     },
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 18,
-      "idleDays": 1,
+      "progress": 21,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -58,7 +58,7 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 21
       }
     },
     {
@@ -84,7 +84,7 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 46,
+      "progress": 45,
       "idleDays": 0,
       "week": [
         "idle",
@@ -98,13 +98,13 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 46
+        "doneCount": 45
       }
     },
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 23,
+      "progress": 24,
       "idleDays": 0,
       "week": [
         "idle",
@@ -118,7 +118,7 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 23
+        "doneCount": 24
       }
     },
     {
