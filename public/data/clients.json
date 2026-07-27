@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:51:28.751Z",
+  "generatedAt": "2026-07-27T08:18:19.910Z",
   "week": {
     "days": [
       "TER",
@@ -65,12 +65,12 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "design",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -185,7 +185,7 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
