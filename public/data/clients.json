@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T16:25:54.135Z",
+  "generatedAt": "2026-07-27T18:01:08.358Z",
   "week": {
     "days": [
       "TER",
@@ -144,21 +144,21 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 18,
+      "progress": 20,
       "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 20
       }
     },
     {
@@ -233,7 +233,7 @@
         "idle",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682343",
@@ -245,7 +245,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
