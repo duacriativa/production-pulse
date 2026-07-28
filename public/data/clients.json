@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T12:59:49.976Z",
+  "generatedAt": "2026-07-28T15:25:55.805Z",
   "week": {
     "days": [
       "TER",
@@ -27,7 +27,7 @@
       "progress": 41,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "design",
         "idle",
         "design",
@@ -185,7 +185,7 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 14,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -205,12 +205,12 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "planning",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -247,7 +247,7 @@
       "progress": 0,
       "idleDays": 0,
       "week": [
-        "design",
+        "planning",
         "planning",
         "planning",
         "planning",
