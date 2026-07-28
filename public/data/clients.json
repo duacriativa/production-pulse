@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T15:25:55.805Z",
+  "generatedAt": "2026-07-28T16:57:22.072Z",
   "week": {
     "days": [
       "TER",
@@ -64,21 +64,21 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
-      "idleDays": 1,
+      "progress": 21,
+      "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "planning",
         "idle",
         "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 21
       }
     },
     {
@@ -109,7 +109,7 @@
       "week": [
         "idle",
         "design",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
