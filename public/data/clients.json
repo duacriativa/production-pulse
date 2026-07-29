@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T15:22:48.427Z",
+  "generatedAt": "2026-07-29T16:43:58.743Z",
   "week": {
     "days": [
       "TER",
@@ -145,12 +145,12 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 20,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
-        "design",
+        "idle",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -224,13 +224,13 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 34,
+      "progress": 35,
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
         "idle",
-        "planning",
+        "idle",
+        "design",
         "idle",
         "idle",
         "design"
@@ -238,7 +238,7 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 34
+        "doneCount": 35
       }
     },
     {
