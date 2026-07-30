@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T12:21:38.630Z",
+  "generatedAt": "2026-07-30T14:37:47.983Z",
   "week": {
     "days": [
       "TER",
@@ -64,13 +64,13 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 21,
+      "progress": 23,
       "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "design",
-        "design",
+        "done",
         "idle",
         "idle",
         "design"
@@ -78,7 +78,7 @@
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 21
+        "doneCount": 23
       }
     },
     {
@@ -124,13 +124,13 @@
     {
       "name": "Eloah",
       "owner": "Luana Vieira",
-      "progress": 12,
+      "progress": 13,
       "idleDays": 0,
       "week": [
         "design",
         "idle",
-        "idle",
-        "idle",
+        "done",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -138,7 +138,7 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 12
+        "doneCount": 13
       }
     },
     {
@@ -249,7 +249,7 @@
       "week": [
         "planning",
         "idle",
-        "idle",
+        "design",
         "design",
         "idle",
         "idle",
@@ -257,7 +257,7 @@
       ],
       "_meta": {
         "listId": "901327732420",
-        "taskCount": 29,
+        "taskCount": 30,
         "doneCount": 0
       }
     },
