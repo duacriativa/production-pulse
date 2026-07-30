@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:29:07.909Z",
+  "generatedAt": "2026-07-30T06:08:01.360Z",
   "week": {
     "days": [
       "TER",
@@ -68,7 +68,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "approval",
         "idle",
