@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T07:36:25.521Z",
+  "generatedAt": "2026-07-31T10:11:20.160Z",
   "week": {
     "days": [
       "TER",
@@ -69,7 +69,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "done",
         "idle",
         "idle",
@@ -185,11 +185,11 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "design",
+        "planning",
         "design",
         "idle",
         "idle",
@@ -265,11 +265,11 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 14,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
