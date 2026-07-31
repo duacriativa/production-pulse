@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T12:16:04.288Z",
+  "generatedAt": "2026-07-31T14:40:58.885Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 41,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -64,7 +64,7 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 23,
+      "progress": 24,
       "idleDays": 0,
       "week": [
         "idle",
@@ -78,13 +78,13 @@
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 23
+        "doneCount": 24
       }
     },
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 45,
+      "progress": 44,
       "idleDays": 0,
       "week": [
         "idle",
@@ -93,12 +93,12 @@
         "planning",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 45
+        "doneCount": 44
       }
     },
     {
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "idle",
         "design",
         "idle",
@@ -124,7 +124,7 @@
     {
       "name": "Eloah",
       "owner": "Luana Vieira",
-      "progress": 13,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "design",
@@ -138,7 +138,7 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 13
+        "doneCount": 19
       }
     },
     {
@@ -189,7 +189,7 @@
       "week": [
         "idle",
         "idle",
-        "planning",
+        "design",
         "design",
         "idle",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "approval",
         "idle",
