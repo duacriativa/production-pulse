@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:37:57.874Z",
+  "generatedAt": "2026-08-02T22:35:38.555Z",
   "week": {
     "days": [
       "TER",
@@ -50,10 +50,10 @@
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324614474",
