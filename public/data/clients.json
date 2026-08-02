@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:09:03.999Z",
+  "generatedAt": "2026-08-02T14:42:25.129Z",
   "week": {
     "days": [
       "TER",
@@ -24,8 +24,8 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 41,
-      "idleDays": 1,
+      "progress": 40,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -38,13 +38,13 @@
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 41
+        "doneCount": 40
       }
     },
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 21,
+      "progress": 20,
       "idleDays": 0,
       "week": [
         "idle",
@@ -58,13 +58,13 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 21
+        "doneCount": 20
       }
     },
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 24,
+      "progress": 22,
       "idleDays": 0,
       "week": [
         "idle",
@@ -78,13 +78,13 @@
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 24
+        "doneCount": 22
       }
     },
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 44,
+      "progress": 42,
       "idleDays": 0,
       "week": [
         "idle",
@@ -98,13 +98,13 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 44
+        "doneCount": 42
       }
     },
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 24,
+      "progress": 23,
       "idleDays": 0,
       "week": [
         "idle",
@@ -118,14 +118,14 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 24
+        "doneCount": 23
       }
     },
     {
       "name": "Eloah",
       "owner": "Luana Vieira",
-      "progress": 19,
-      "idleDays": 2,
+      "progress": 18,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
@@ -138,14 +138,14 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 18
       }
     },
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 19,
-      "idleDays": 3,
+      "progress": 18,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -158,14 +158,14 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 18
       }
     },
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 22,
-      "idleDays": 3,
+      "progress": 15,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -178,18 +178,18 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 93,
-        "doneCount": 20
+        "doneCount": 14
       }
     },
     {
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
-      "progress": 17,
-      "idleDays": 1,
+      "progress": 15,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -198,14 +198,14 @@
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 15
       }
     },
     {
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "approval",
         "idle",
@@ -217,7 +217,7 @@
       ],
       "_meta": {
         "listId": "901327915140",
-        "taskCount": 41,
+        "taskCount": 12,
         "doneCount": 0
       }
     },
@@ -225,7 +225,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 35,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "planning",
         "idle",
@@ -257,7 +257,7 @@
       ],
       "_meta": {
         "listId": "901327732420",
-        "taskCount": 30,
+        "taskCount": 38,
         "doneCount": 0
       }
     },
