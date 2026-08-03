@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:44:46.141Z",
+  "generatedAt": "2026-08-03T14:03:13.339Z",
   "week": {
     "days": [
       "TER",
@@ -84,7 +84,7 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 42,
+      "progress": 37,
       "idleDays": 0,
       "week": [
         "idle",
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 42
+        "doneCount": 37
       }
     },
     {
@@ -124,10 +124,10 @@
     {
       "name": "Eloah",
       "owner": "Luana Vieira",
-      "progress": 18,
+      "progress": 21,
       "idleDays": 0,
       "week": [
-        "design",
+        "done",
         "idle",
         "done",
         "idle",
@@ -138,7 +138,7 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 21
       }
     },
     {
