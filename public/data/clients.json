@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T11:49:52.262Z",
+  "generatedAt": "2026-08-04T13:27:26.226Z",
   "week": {
     "days": [
       "TER",
@@ -127,10 +127,10 @@
       "progress": 21,
       "idleDays": 0,
       "week": [
-        "planning",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -225,7 +225,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 34,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
