@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T13:27:26.226Z",
+  "generatedAt": "2026-08-04T15:54:52.197Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 40,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -44,28 +44,28 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 20,
-      "idleDays": 1,
+      "progress": 22,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 20
+        "doneCount": 22
       }
     },
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 22,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "planning",
@@ -105,12 +105,12 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 23,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "planning",
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "planning",
@@ -185,7 +185,7 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 15,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "planning",
@@ -265,7 +265,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "planning",
