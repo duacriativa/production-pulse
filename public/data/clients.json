@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T17:39:02.167Z",
+  "generatedAt": "2026-08-04T19:10:40.108Z",
   "week": {
     "days": [
       "TER",
@@ -28,7 +28,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "planning",
         "idle",
         "idle",
         "idle",
@@ -128,7 +128,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -144,21 +144,21 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 18,
+      "progress": 20,
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 20
       }
     },
     {
@@ -248,7 +248,7 @@
       "idleDays": 0,
       "week": [
         "planning",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
