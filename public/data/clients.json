@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T20:41:53.112Z",
+  "generatedAt": "2026-08-04T21:55:40.176Z",
   "week": {
     "days": [
       "TER",
@@ -64,28 +64,28 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 22,
-      "idleDays": 2,
+      "progress": 23,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "design",
         "idle",
         "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 22
+        "doneCount": 23
       }
     },
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 37,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "design",
