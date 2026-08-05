@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:56:09.990Z",
+  "generatedAt": "2026-08-05T18:18:52.403Z",
   "week": {
     "days": [
       "TER",
@@ -144,11 +144,11 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 20,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -158,7 +158,7 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 20
+        "doneCount": 19
       }
     },
     {
