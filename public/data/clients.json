@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:17:32.492Z",
+  "generatedAt": "2026-08-06T15:33:17.350Z",
   "week": {
     "days": [
       "TER",
@@ -104,12 +104,12 @@
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 23,
+      "progress": 22,
       "idleDays": 0,
       "week": [
         "design",
         "design",
-        "idle",
+        "design",
         "design",
         "idle",
         "idle",
@@ -118,7 +118,7 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 23
+        "doneCount": 22
       }
     },
     {
@@ -265,7 +265,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "planning",
