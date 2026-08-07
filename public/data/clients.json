@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T20:44:42.781Z",
+  "generatedAt": "2026-08-07T21:22:38.723Z",
   "week": {
     "days": [
       "TER",
@@ -85,10 +85,10 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 37,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "approval",
         "idle",
         "design",
         "idle",
