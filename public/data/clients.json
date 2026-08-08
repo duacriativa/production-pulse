@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T21:02:28.430Z",
+  "generatedAt": "2026-08-08T21:39:27.783Z",
   "week": {
     "days": [
       "TER",
@@ -90,10 +90,10 @@
         "design",
         "approval",
         "idle",
-        "design",
         "idle",
         "idle",
-        "idle"
+        "idle",
+        "design"
       ],
       "_meta": {
         "listId": "901324614041",
@@ -144,7 +144,7 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 18,
+      "progress": 17,
       "idleDays": 0,
       "week": [
         "idle",
@@ -158,13 +158,13 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 17
       }
     },
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 17,
+      "progress": 16,
       "idleDays": 0,
       "week": [
         "idle",
@@ -178,7 +178,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 93,
-        "doneCount": 16
+        "doneCount": 15
       }
     },
     {
@@ -209,7 +209,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -257,7 +257,7 @@
       ],
       "_meta": {
         "listId": "901327732420",
-        "taskCount": 47,
+        "taskCount": 48,
         "doneCount": 0
       }
     },
