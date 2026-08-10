@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T20:00:37.235Z",
+  "generatedAt": "2026-08-10T20:53:41.003Z",
   "week": {
     "days": [
       "TER",
@@ -233,7 +233,7 @@
         "idle",
         "idle",
         "idle",
-        "idle"
+        "done"
       ],
       "_meta": {
         "listId": "901324682343",
