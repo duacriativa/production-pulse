@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T00:06:44.872Z",
+  "generatedAt": "2026-08-12T02:39:33.532Z",
   "week": {
     "days": [
       "TER",
@@ -24,7 +24,7 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 41,
+      "progress": 40,
       "idleDays": 0,
       "week": [
         "idle",
@@ -38,7 +38,7 @@
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 41
+        "doneCount": 40
       }
     },
     {
