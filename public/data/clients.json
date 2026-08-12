@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T13:55:23.277Z",
+  "generatedAt": "2026-08-12T14:52:33.465Z",
   "week": {
     "days": [
       "TER",
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "idle",
         "design",
         "idle",
@@ -150,7 +150,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "planning",
         "idle",
         "idle",
         "design"
@@ -169,7 +169,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -208,7 +208,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -248,7 +248,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
