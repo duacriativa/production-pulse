@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T14:04:56.237Z",
+  "generatedAt": "2026-08-13T15:09:35.925Z",
   "week": {
     "days": [
       "TER",
@@ -28,7 +28,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "idle",
         "design",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 16,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "design",
@@ -205,7 +205,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
