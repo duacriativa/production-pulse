@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:40:11.750Z",
+  "generatedAt": "2026-08-14T21:57:55.234Z",
   "week": {
     "days": [
       "TER",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 14,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
