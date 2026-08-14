@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:17:59.616Z",
+  "generatedAt": "2026-08-14T20:49:27.276Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 14,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
