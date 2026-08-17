@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T03:11:11.411Z",
+  "generatedAt": "2026-08-17T04:01:45.437Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 14,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -185,12 +185,12 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 15,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "planning",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
