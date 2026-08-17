@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:56:03.826Z",
+  "generatedAt": "2026-08-17T13:36:29.856Z",
   "week": {
     "days": [
       "TER",
@@ -124,13 +124,13 @@
     {
       "name": "Eloah",
       "owner": "Luana Vieira",
-      "progress": 14,
-      "idleDays": 2,
+      "progress": 15,
+      "idleDays": 0,
       "week": [
-        "design",
         "idle",
         "idle",
-        "design",
+        "idle",
+        "done",
         "idle",
         "idle",
         "idle"
@@ -138,14 +138,14 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 14
+        "doneCount": 15
       }
     },
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -153,7 +153,7 @@
         "planning",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -245,12 +245,12 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
