@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T01:26:21.750Z",
+  "generatedAt": "2026-08-18T02:34:44.250Z",
   "week": {
     "days": [
       "TER",
@@ -184,21 +184,21 @@
     {
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
-      "progress": 15,
+      "progress": 16,
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 15
+        "doneCount": 16
       }
     },
     {
@@ -265,7 +265,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 14,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "planning",
