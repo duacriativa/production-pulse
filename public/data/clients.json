@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:13:57.185Z",
+  "generatedAt": "2026-08-18T13:57:07.545Z",
   "week": {
     "days": [
       "TER",
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
         "planning",
         "planning",
         "idle",
@@ -244,7 +244,7 @@
     {
       "name": "Mavix",
       "owner": "Davila Rocha",
-      "progress": 0,
+      "progress": 2,
       "idleDays": 0,
       "week": [
         "design",
@@ -258,7 +258,7 @@
       "_meta": {
         "listId": "901327732420",
         "taskCount": 58,
-        "doneCount": 0
+        "doneCount": 1
       }
     },
     {
