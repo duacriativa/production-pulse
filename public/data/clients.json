@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T02:28:54.236Z",
+  "generatedAt": "2026-08-22T03:21:18.720Z",
   "week": {
     "days": [
       "TER",
@@ -25,12 +25,12 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 38,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
