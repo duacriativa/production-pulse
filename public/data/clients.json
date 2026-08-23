@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:55:37.895Z",
+  "generatedAt": "2026-08-23T13:28:14.152Z",
   "week": {
     "days": [
       "TER",
@@ -24,7 +24,7 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 36,
+      "progress": 35,
       "idleDays": 0,
       "week": [
         "idle",
@@ -38,7 +38,7 @@
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 36
+        "doneCount": 35
       }
     },
     {
@@ -104,7 +104,7 @@
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 13,
+      "progress": 12,
       "idleDays": 0,
       "week": [
         "idle",
@@ -118,7 +118,7 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 13
+        "doneCount": 12
       }
     },
     {
@@ -144,7 +144,7 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 19,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "idle",
@@ -158,13 +158,13 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 18
       }
     },
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 15,
+      "progress": 13,
       "idleDays": 0,
       "week": [
         "idle",
@@ -178,7 +178,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 93,
-        "doneCount": 14
+        "doneCount": 12
       }
     },
     {
@@ -217,7 +217,7 @@
       ],
       "_meta": {
         "listId": "901327915140",
-        "taskCount": 46,
+        "taskCount": 47,
         "doneCount": 0
       }
     },
@@ -232,7 +232,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "design"
       ],
       "_meta": {
