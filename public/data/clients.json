@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T00:31:16.060Z",
+  "generatedAt": "2026-08-23T02:10:48.113Z",
   "week": {
     "days": [
       "TER",
@@ -217,7 +217,7 @@
       ],
       "_meta": {
         "listId": "901327915140",
-        "taskCount": 40,
+        "taskCount": 46,
         "doneCount": 0
       }
     },
