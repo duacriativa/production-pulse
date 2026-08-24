@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:04:24.891Z",
+  "generatedAt": "2026-08-24T19:37:56.998Z",
   "week": {
     "days": [
       "TER",
@@ -84,7 +84,7 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 37,
+      "progress": 36,
       "idleDays": 0,
       "week": [
         "design",
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 37
+        "doneCount": 36
       }
     },
     {
@@ -224,7 +224,7 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 31,
+      "progress": 29,
       "idleDays": 0,
       "week": [
         "idle",
@@ -238,16 +238,16 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 31
+        "doneCount": 29
       }
     },
     {
       "name": "Mavix",
       "owner": "Davila Rocha",
-      "progress": 2,
+      "progress": 5,
       "idleDays": 0,
       "week": [
-        "design",
+        "done",
         "idle",
         "idle",
         "planning",
@@ -258,7 +258,7 @@
       "_meta": {
         "listId": "901327732420",
         "taskCount": 66,
-        "doneCount": 1
+        "doneCount": 3
       }
     },
     {
