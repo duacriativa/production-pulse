@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T23:55:31.714Z",
+  "generatedAt": "2026-08-24T00:59:29.315Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 2,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "idle",
