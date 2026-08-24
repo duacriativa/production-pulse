@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:40:01.873Z",
+  "generatedAt": "2026-08-24T23:57:09.144Z",
   "week": {
     "days": [
       "TER",
@@ -184,7 +184,7 @@
     {
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
-      "progress": 13,
+      "progress": 17,
       "idleDays": 0,
       "week": [
         "idle",
@@ -198,7 +198,7 @@
       "_meta": {
         "listId": "901326977055",
         "taskCount": 100,
-        "doneCount": 13
+        "doneCount": 17
       }
     },
     {
