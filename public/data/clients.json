@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:18:51.016Z",
+  "generatedAt": "2026-08-24T17:51:08.548Z",
   "week": {
     "days": [
       "TER",
@@ -193,7 +193,7 @@
         "idle",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901326977055",
@@ -224,7 +224,7 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 30,
+      "progress": 32,
       "idleDays": 0,
       "week": [
         "idle",
@@ -238,7 +238,7 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 30
+        "doneCount": 32
       }
     },
     {
