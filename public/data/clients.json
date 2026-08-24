@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:18:06.056Z",
+  "generatedAt": "2026-08-24T19:04:24.891Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 35,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -33,7 +33,7 @@
         "idle",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901326685391",
@@ -84,7 +84,7 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 38,
+      "progress": 37,
       "idleDays": 0,
       "week": [
         "design",
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 38
+        "doneCount": 37
       }
     },
     {
@@ -224,7 +224,7 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 32,
+      "progress": 31,
       "idleDays": 0,
       "week": [
         "idle",
@@ -238,14 +238,14 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 32
+        "doneCount": 31
       }
     },
     {
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 2,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
