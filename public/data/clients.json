@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:52:56.222Z",
+  "generatedAt": "2026-08-25T13:38:44.821Z",
   "week": {
     "days": [
       "TER",
@@ -44,7 +44,7 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "idle",
@@ -58,7 +58,7 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 18
       }
     },
     {
