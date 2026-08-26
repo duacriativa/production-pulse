@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:17:31.446Z",
+  "generatedAt": "2026-08-26T13:26:42.186Z",
   "week": {
     "days": [
       "TER",
@@ -85,12 +85,12 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 36,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "design"
@@ -208,7 +208,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -265,10 +265,10 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
