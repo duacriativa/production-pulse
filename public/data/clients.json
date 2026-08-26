@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T18:22:41.958Z",
+  "generatedAt": "2026-08-26T20:16:32.979Z",
   "week": {
     "days": [
       "TER",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -189,11 +189,11 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901326977055",
@@ -225,12 +225,12 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 29,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "design",
         "idle",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
