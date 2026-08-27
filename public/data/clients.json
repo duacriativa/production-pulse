@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T05:03:36.963Z",
+  "generatedAt": "2026-08-27T16:24:04.695Z",
   "week": {
     "days": [
       "TER",
@@ -85,7 +85,7 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 36,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -107,7 +107,7 @@
       "progress": 12,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "idle",
         "idle",
         "design",
@@ -145,12 +145,12 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
-        "design",
+        "idle",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -165,10 +165,10 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -213,38 +213,18 @@
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901327915140",
-        "taskCount": 48,
+        "taskCount": 49,
         "doneCount": 0
       }
     },
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 29,
-      "idleDays": 0,
-      "week": [
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
-      ],
-      "_meta": {
-        "listId": "901324682343",
-        "taskCount": 100,
-        "doneCount": 29
-      }
-    },
-    {
-      "name": "Mavix",
-      "owner": "Davila Rocha",
-      "progress": 5,
+      "progress": 28,
       "idleDays": 0,
       "week": [
         "idle",
@@ -253,11 +233,31 @@
         "design",
         "idle",
         "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901324682343",
+        "taskCount": 100,
+        "doneCount": 28
+      }
+    },
+    {
+      "name": "Mavix",
+      "owner": "Davila Rocha",
+      "progress": 4,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "idle",
+        "design",
+        "design",
+        "idle",
+        "idle",
         "idle"
       ],
       "_meta": {
         "listId": "901327732420",
-        "taskCount": 66,
+        "taskCount": 67,
         "doneCount": 3
       }
     },
