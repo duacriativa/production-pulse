@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T16:20:07.509Z",
+  "generatedAt": "2026-09-01T19:26:37.614Z",
   "week": {
     "days": [
       "TER",
@@ -48,7 +48,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "planning",
         "design",
         "design",
         "idle",
@@ -127,7 +127,7 @@
       "progress": 13,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "idle",
         "design",
         "design",
@@ -185,7 +185,7 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "planning",
@@ -248,7 +248,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
