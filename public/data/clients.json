@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:58:56.191Z",
+  "generatedAt": "2026-09-01T16:20:07.509Z",
   "week": {
     "days": [
       "TER",
@@ -84,13 +84,13 @@
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 34,
+      "progress": 31,
       "idleDays": 0,
       "week": [
         "idle",
         "design",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 34
+        "doneCount": 31
       }
     },
     {
@@ -107,10 +107,10 @@
       "progress": 5,
       "idleDays": 0,
       "week": [
+        "idle",
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -128,7 +128,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -164,7 +164,7 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 16,
+      "progress": 17,
       "idleDays": 0,
       "week": [
         "idle",
@@ -178,7 +178,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 93,
-        "doneCount": 15
+        "doneCount": 16
       }
     },
     {
@@ -264,21 +264,21 @@
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 16,
+      "progress": 17,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 16
+        "doneCount": 17
       }
     }
   ]
