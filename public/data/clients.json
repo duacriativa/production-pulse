@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T18:37:05.414Z",
+  "generatedAt": "2026-09-02T21:15:19.360Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "planning",
@@ -228,7 +228,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -249,8 +249,8 @@
       "week": [
         "idle",
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "idle"
