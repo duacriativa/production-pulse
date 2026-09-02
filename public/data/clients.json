@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T15:05:43.064Z",
+  "generatedAt": "2026-09-02T18:37:05.414Z",
   "week": {
     "days": [
       "TER",
@@ -30,7 +30,7 @@
         "idle",
         "design",
         "idle",
-        "design",
+        "approval",
         "idle",
         "idle",
         "design"
@@ -110,7 +110,7 @@
         "idle",
         "planning",
         "design",
-        "design",
+        "approval",
         "idle",
         "idle",
         "idle"
@@ -168,7 +168,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "idle",
         "design",
         "idle",
