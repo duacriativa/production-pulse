@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:47:03.191Z",
+  "generatedAt": "2026-09-03T22:50:27.512Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -85,7 +85,7 @@
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
       "progress": 55,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "done",
         "design",
@@ -269,7 +269,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
