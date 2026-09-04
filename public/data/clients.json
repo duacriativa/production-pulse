@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:50:27.512Z",
+  "generatedAt": "2026-09-04T00:28:24.442Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 31,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -49,8 +49,8 @@
       "week": [
         "idle",
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -270,10 +270,10 @@
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324682471",
