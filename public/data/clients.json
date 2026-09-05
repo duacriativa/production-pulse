@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:36:10.927Z",
+  "generatedAt": "2026-09-05T19:26:36.458Z",
   "week": {
     "days": [
       "TER",
@@ -185,7 +185,7 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 6,
+      "idleDays": 7,
       "week": [
         "idle",
         "planning",
