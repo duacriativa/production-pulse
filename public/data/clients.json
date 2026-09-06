@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:10:44.006Z",
+  "generatedAt": "2026-09-06T00:55:32.779Z",
   "week": {
     "days": [
       "TER",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Davila Rocha",
       "progress": 10,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
