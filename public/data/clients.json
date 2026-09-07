@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:48:16.623Z",
+  "generatedAt": "2026-09-07T23:48:23.194Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Davila Rocha",
       "progress": 3,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Davila Rocha",
       "progress": 10,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 15,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
