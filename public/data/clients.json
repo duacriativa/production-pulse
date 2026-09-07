@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T18:46:27.574Z",
+  "generatedAt": "2026-09-07T21:48:16.623Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 15,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -65,7 +65,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 16,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Mandi - SSA",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 8,
+      "idleDays": 9,
       "week": [
         "idle",
         "planning",
@@ -205,7 +205,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "approval",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 27,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 4,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 15,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
