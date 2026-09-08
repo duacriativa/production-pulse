@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:44:42.819Z",
+  "generatedAt": "2026-09-08T21:27:20.800Z",
   "week": {
     "days": [
       "TER",
@@ -64,21 +64,21 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 17,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 19
       }
     },
     {
@@ -108,9 +108,9 @@
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "approval",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -128,7 +128,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -182,34 +182,14 @@
       }
     },
     {
-      "name": "Mandi - SSA",
-      "owner": "Ciane DuaCriativa",
-      "progress": 16,
-      "idleDays": 9,
-      "week": [
-        "planning",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
-      ],
-      "_meta": {
-        "listId": "901326977055",
-        "taskCount": 100,
-        "doneCount": 16
-      }
-    },
-    {
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 0,
       "idleDays": 0,
       "week": [
         "approval",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -224,13 +204,13 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 27,
+      "progress": 32,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "design"
@@ -238,7 +218,7 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 27
+        "doneCount": 32
       }
     },
     {
@@ -248,9 +228,9 @@
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -279,6 +259,26 @@
         "listId": "901324682471",
         "taskCount": 100,
         "doneCount": 15
+      }
+    },
+    {
+      "name": "Feja",
+      "owner": "Alexia Cruz",
+      "progress": 0,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "planning",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "_meta": {
+        "listId": "901329016585",
+        "taskCount": 23,
+        "doneCount": 0
       }
     }
   ]
