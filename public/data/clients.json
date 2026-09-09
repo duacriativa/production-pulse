@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T11:42:20.293Z",
+  "generatedAt": "2026-09-09T15:17:41.884Z",
   "week": {
     "days": [
       "TER",
@@ -87,7 +87,7 @@
       "progress": 51,
       "idleDays": 0,
       "week": [
-        "design",
+        "approval",
         "planning",
         "idle",
         "design",
@@ -168,7 +168,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -184,10 +184,10 @@
     {
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
-      "progress": 0,
+      "progress": 6,
       "idleDays": 0,
       "week": [
-        "approval",
+        "done",
         "idle",
         "idle",
         "design",
@@ -198,7 +198,7 @@
       "_meta": {
         "listId": "901327915140",
         "taskCount": 71,
-        "doneCount": 0
+        "doneCount": 4
       }
     },
     {
@@ -245,7 +245,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 15,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
