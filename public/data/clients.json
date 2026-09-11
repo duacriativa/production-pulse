@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:18:14.297Z",
+  "generatedAt": "2026-09-11T19:49:20.652Z",
   "week": {
     "days": [
       "TER",
@@ -24,8 +24,8 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 34,
-      "idleDays": 1,
+      "progress": 33,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -38,13 +38,13 @@
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 34
+        "doneCount": 33
       }
     },
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 20,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "idle",
@@ -58,14 +58,14 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 20
+        "doneCount": 18
       }
     },
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
-      "idleDays": 1,
+      "progress": 18,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
@@ -78,13 +78,13 @@
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 18
       }
     },
     {
       "name": "Andirá Jeans",
       "owner": "Isadora Coelho Cosmo",
-      "progress": 49,
+      "progress": 47,
       "idleDays": 0,
       "week": [
         "approval",
@@ -98,13 +98,13 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 49
+        "doneCount": 47
       }
     },
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 2,
+      "progress": 1,
       "idleDays": 0,
       "week": [
         "design",
@@ -118,7 +118,7 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 2
+        "doneCount": 1
       }
     },
     {
@@ -144,7 +144,7 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 19,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "idle",
@@ -158,7 +158,7 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 18
       }
     },
     {
@@ -205,7 +205,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 32,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Mavix",
       "owner": "Davila Rocha",
       "progress": 4,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "design",
         "design",
