@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T16:52:16.403Z",
+  "generatedAt": "2026-09-15T19:52:41.548Z",
   "week": {
     "days": [
       "TER",
@@ -24,13 +24,13 @@
     {
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
-      "progress": 32,
-      "idleDays": 1,
+      "progress": 34,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -38,7 +38,7 @@
       "_meta": {
         "listId": "901326685391",
         "taskCount": 100,
-        "doneCount": 32
+        "doneCount": 34
       }
     },
     {
@@ -64,21 +64,21 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 18,
+      "progress": 22,
       "idleDays": 0,
       "week": [
+        "idle",
+        "idle",
         "design",
-        "planning",
-        "planning",
-        "approval",
+        "done",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 22
       }
     },
     {
@@ -128,8 +128,8 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -144,41 +144,41 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 20,
+      "progress": 21,
       "idleDays": 0,
       "week": [
         "done",
         "design",
-        "planning",
-        "planning",
+        "idle",
+        "design",
         "idle",
         "idle",
-        "planning"
+        "design"
       ],
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 20
+        "doneCount": 21
       }
     },
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 16,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
         "design",
-        "planning",
+        "done",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 16
+        "doneCount": 18
       }
     },
     {
@@ -248,8 +248,8 @@
       "idleDays": 0,
       "week": [
         "approval",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Ciane DuaCriativa",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
