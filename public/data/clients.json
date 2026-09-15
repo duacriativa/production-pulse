@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:06:09.274Z",
+  "generatedAt": "2026-09-15T16:52:16.403Z",
   "week": {
     "days": [
       "TER",
@@ -44,21 +44,21 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 17,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "idle",
         "design",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 19
       }
     },
     {
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "planning",
         "design",
         "design",
         "idle",
@@ -144,10 +144,10 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 19,
+      "progress": 20,
       "idleDays": 0,
       "week": [
-        "idle",
+        "done",
         "design",
         "planning",
         "planning",
@@ -158,7 +158,7 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 20
       }
     },
     {
@@ -208,12 +208,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682343",
