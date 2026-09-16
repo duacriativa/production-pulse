@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:02:51.769Z",
+  "generatedAt": "2026-09-16T14:50:26.983Z",
   "week": {
     "days": [
       "TER",
@@ -278,6 +278,26 @@
       "_meta": {
         "listId": "901329053297",
         "taskCount": 100,
+        "doneCount": 0
+      }
+    },
+    {
+      "name": "USE LOVAA",
+      "owner": "Alexia Cruz",
+      "progress": 0,
+      "idleDays": 0,
+      "week": [
+        "idle",
+        "design",
+        "design",
+        "design",
+        "idle",
+        "idle",
+        "design"
+      ],
+      "_meta": {
+        "listId": "901329085234",
+        "taskCount": 22,
         "doneCount": 0
       }
     }
