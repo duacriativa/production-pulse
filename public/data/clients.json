@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T14:50:26.983Z",
+  "generatedAt": "2026-09-16T18:29:12.801Z",
   "week": {
     "days": [
       "TER",
@@ -48,7 +48,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "approval",
         "design",
         "design",
         "idle",
@@ -108,8 +108,8 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -127,7 +127,7 @@
       "progress": 22,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -197,7 +197,7 @@
       ],
       "_meta": {
         "listId": "901327915140",
-        "taskCount": 79,
+        "taskCount": 80,
         "doneCount": 4
       }
     },
@@ -210,7 +210,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -263,17 +263,17 @@
     },
     {
       "name": "FAV",
-      "owner": "Ciane DuaCriativa",
+      "owner": "Luana Vieira",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
+        "idle",
+        "design",
         "planning",
-        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901329053297",
@@ -288,7 +288,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -297,7 +297,7 @@
       ],
       "_meta": {
         "listId": "901329085234",
-        "taskCount": 22,
+        "taskCount": 23,
         "doneCount": 0
       }
     }
