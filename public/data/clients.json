@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:49:37.626Z",
+  "generatedAt": "2026-09-18T21:57:19.751Z",
   "week": {
     "days": [
       "TER",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "done",
         "design",
@@ -170,7 +170,7 @@
         "idle",
         "idle",
         "done",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -185,7 +185,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 5,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
@@ -225,7 +225,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "done",
         "idle",
@@ -245,7 +245,7 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "approval",
         "idle",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
