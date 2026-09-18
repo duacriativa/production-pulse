@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:24:37.002Z",
+  "generatedAt": "2026-09-18T19:49:37.626Z",
   "week": {
     "days": [
       "TER",
@@ -25,12 +25,12 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 34,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -73,7 +73,7 @@
         "done",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324613220",
@@ -88,7 +88,7 @@
       "idleDays": 0,
       "week": [
         "done",
-        "design",
+        "idle",
         "idle",
         "approval",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 23,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 31,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
