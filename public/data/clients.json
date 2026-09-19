@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:42:02.497Z",
+  "generatedAt": "2026-09-19T22:30:00.861Z",
   "week": {
     "days": [
       "TER",
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -285,7 +285,7 @@
       "name": "USE LOVAA",
       "owner": "Alexia Cruz",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
