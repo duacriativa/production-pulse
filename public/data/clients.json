@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:18:19.401Z",
+  "generatedAt": "2026-09-20T05:00:51.907Z",
   "week": {
     "days": [
       "TER",
@@ -285,7 +285,7 @@
       "name": "USE LOVAA",
       "owner": "Alexia Cruz",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
