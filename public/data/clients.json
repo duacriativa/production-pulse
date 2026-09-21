@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T23:30:11.625Z",
+  "generatedAt": "2026-09-21T01:29:54.775Z",
   "week": {
     "days": [
       "TER",
@@ -45,12 +45,12 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "approval",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -283,7 +283,7 @@
     },
     {
       "name": "USE LOVAA",
-      "owner": "Alexia Cruz",
+      "owner": "Ciane DuaCriativa",
       "progress": 0,
       "idleDays": 0,
       "week": [
