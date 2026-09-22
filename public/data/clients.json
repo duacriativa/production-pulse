@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:22:58.973Z",
+  "generatedAt": "2026-09-22T15:03:30.250Z",
   "week": {
     "days": [
       "TER",
@@ -28,12 +28,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "idle",
+        "design",
+        "design",
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901326685391",
@@ -164,21 +164,21 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 17,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 18
       }
     },
     {
@@ -204,13 +204,13 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 30,
+      "progress": 32,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
         "idle",
         "idle",
+        "design",
         "idle",
         "idle",
         "design"
@@ -218,14 +218,14 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 30
+        "doneCount": 32
       }
     },
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -247,7 +247,7 @@
       "progress": 0,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "design",
         "design",
         "design",
@@ -287,7 +287,7 @@
       "progress": 0,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "design",
         "planning",
         "planning",
