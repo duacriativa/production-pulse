@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T21:41:11.477Z",
+  "generatedAt": "2026-09-22T23:49:46.981Z",
   "week": {
     "days": [
       "TER",
@@ -28,7 +28,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -68,7 +68,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -228,12 +228,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle",
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324682471",
@@ -248,7 +248,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
