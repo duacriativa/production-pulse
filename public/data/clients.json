@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T22:22:35.519Z",
+  "generatedAt": "2026-09-22T00:56:12.086Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "15/09",
-      "16/09",
-      "17/09",
-      "18/09",
-      "19/09",
-      "20/09",
-      "21/09"
+      "22/09",
+      "23/09",
+      "24/09",
+      "25/09",
+      "26/09",
+      "27/09",
+      "28/09"
     ]
   },
   "clients": [
@@ -28,9 +28,9 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
         "idle",
-        "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -48,9 +48,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "approval",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "design"
@@ -68,12 +68,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "approval",
+        "planning",
+        "planning",
+        "planning",
         "idle",
-        "done",
-        "idle",
-        "idle",
-        "idle"
+        "design",
+        "planning"
       ],
       "_meta": {
         "listId": "901324613220",
@@ -87,10 +87,10 @@
       "progress": 49,
       "idleDays": 0,
       "week": [
-        "done",
         "idle",
+        "planning",
         "idle",
-        "approval",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -108,9 +108,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -127,10 +127,10 @@
       "progress": 20,
       "idleDays": 0,
       "week": [
+        "design",
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -147,13 +147,13 @@
       "progress": 18,
       "idleDays": 0,
       "week": [
-        "done",
+        "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -168,9 +168,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
-        "done",
-        "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -187,13 +187,13 @@
       "progress": 5,
       "idleDays": 0,
       "week": [
-        "idle",
+        "design",
+        "design",
+        "design",
         "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "planning"
+        "idle"
       ],
       "_meta": {
         "listId": "901327915140",
@@ -208,7 +208,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
+        "planning",
         "idle",
         "idle",
         "idle",
@@ -227,13 +227,13 @@
       "progress": 18,
       "idleDays": 0,
       "week": [
-        "done",
+        "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "design",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682471",
@@ -247,10 +247,10 @@
       "progress": 0,
       "idleDays": 0,
       "week": [
-        "approval",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -267,13 +267,13 @@
       "progress": 0,
       "idleDays": 0,
       "week": [
+        "design",
+        "planning",
         "idle",
         "idle",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901329053297",
@@ -287,10 +287,10 @@
       "progress": 0,
       "idleDays": 0,
       "week": [
-        "idle",
-        "idle",
-        "approval",
-        "idle",
+        "design",
+        "design",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "design"
