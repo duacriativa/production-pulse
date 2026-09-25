@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:27:18.388Z",
+  "generatedAt": "2026-09-25T22:39:47.591Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 32,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -65,7 +65,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -85,12 +85,12 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 46,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -245,12 +245,12 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
