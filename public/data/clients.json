@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:29:09.541Z",
+  "generatedAt": "2026-09-25T19:27:18.388Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -85,7 +85,7 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 46,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Davila Rocha",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -187,7 +187,7 @@
       "progress": 4,
       "idleDays": 0,
       "week": [
-        "design",
+        "approval",
         "idle",
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Ciane DuaCriativa",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "planning",
@@ -290,7 +290,7 @@
         "done",
         "idle",
         "idle",
-        "design",
+        "approval",
         "idle",
         "idle",
         "design"
