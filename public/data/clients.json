@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T17:13:07.484Z",
+  "generatedAt": "2026-09-27T20:09:00.191Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "idle",
@@ -65,7 +65,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 17,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Davila Rocha",
       "progress": 17,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 4,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "approval",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Ciane DuaCriativa",
       "progress": 0,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "design",
         "planning",
