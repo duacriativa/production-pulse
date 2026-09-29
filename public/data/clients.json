@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T18:46:16.753Z",
+  "generatedAt": "2026-09-29T22:40:32.404Z",
   "week": {
     "days": [
       "TER",
@@ -84,11 +84,11 @@
     {
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
-      "progress": 46,
+      "progress": 47,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 46
+        "doneCount": 47
       }
     },
     {
@@ -245,7 +245,7 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 3,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
