@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:40:32.404Z",
+  "generatedAt": "2026-09-30T01:34:41.547Z",
   "week": {
     "days": [
       "TER",
@@ -68,7 +68,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -245,10 +245,10 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
