@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T13:55:45.688Z",
+  "generatedAt": "2026-09-30T18:48:11.100Z",
   "week": {
     "days": [
       "TER",
@@ -69,8 +69,8 @@
       "week": [
         "idle",
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -204,28 +204,28 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 32,
-      "idleDays": 6,
+      "progress": 33,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
+        "idle",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 32
+        "doneCount": 33
       }
     },
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 6,
+      "idleDays": 7,
       "week": [
         "idle",
         "planning",
@@ -265,10 +265,10 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 3,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "idle",
         "design",
         "idle",
