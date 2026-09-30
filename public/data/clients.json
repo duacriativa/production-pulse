@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T07:21:15.013Z",
+  "generatedAt": "2026-09-30T13:55:45.688Z",
   "week": {
     "days": [
       "TER",
@@ -104,7 +104,7 @@
     {
       "name": "Doce Caju",
       "owner": "Luana Vieira",
-      "progress": 19,
+      "progress": 17,
       "idleDays": 0,
       "week": [
         "design",
@@ -118,7 +118,7 @@
       "_meta": {
         "listId": "901324614721",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 17
       }
     },
     {
@@ -128,7 +128,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -185,10 +185,10 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 21,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "done",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
