@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:43:31.428Z",
+  "generatedAt": "2026-10-01T14:46:53.181Z",
   "week": {
     "days": [
       "TER",
@@ -189,7 +189,7 @@
       "week": [
         "done",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 3,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
