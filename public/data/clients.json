@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T19:57:39.765Z",
+  "generatedAt": "2026-10-02T23:35:18.586Z",
   "week": {
     "days": [
       "TER",
@@ -30,7 +30,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -50,10 +50,10 @@
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324614474",
@@ -184,7 +184,7 @@
     {
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
-      "progress": 19,
+      "progress": 20,
       "idleDays": 0,
       "week": [
         "done",
@@ -198,7 +198,7 @@
       "_meta": {
         "listId": "901327915140",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 20
       }
     },
     {
@@ -250,7 +250,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
