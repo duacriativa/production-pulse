@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:07:49.990Z",
+  "generatedAt": "2026-10-03T22:51:53.023Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 30,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 20,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "done",
         "idle",
@@ -284,28 +284,28 @@
     {
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
-      "progress": 8,
-      "idleDays": 1,
+      "progress": 10,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "approval",
+        "done",
         "idle",
         "idle",
         "idle"
       ],
       "_meta": {
         "listId": "901329085234",
-        "taskCount": 51,
-        "doneCount": 4
+        "taskCount": 50,
+        "doneCount": 5
       }
     },
     {
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
