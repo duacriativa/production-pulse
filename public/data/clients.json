@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:27:35.784Z",
+  "generatedAt": "2026-10-03T17:30:29.467Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 17,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 16,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 28,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 14,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 3,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
