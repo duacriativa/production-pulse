@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T19:46:35.287Z",
+  "generatedAt": "2026-10-06T23:20:48.898Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 30,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "planning",
@@ -188,8 +188,8 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -208,9 +208,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
         "idle",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -245,7 +245,7 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 2,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "design",
@@ -285,7 +285,7 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 10,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "design",
