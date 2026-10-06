@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T14:32:08.540Z",
+  "generatedAt": "2026-10-06T19:46:35.287Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 16,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "design",
@@ -85,7 +85,7 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 46,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "design",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 17,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "design",
         "idle",
@@ -127,13 +127,13 @@
       "progress": 13,
       "idleDays": 0,
       "week": [
-        "planning",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "idle",
+        "design",
+        "design",
         "idle",
         "idle",
-        "planning"
+        "design"
       ],
       "_meta": {
         "listId": "901324682275",
@@ -187,7 +187,7 @@
       "progress": 20,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "design",
         "design",
         "design",
@@ -225,7 +225,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 14,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "planning",
         "planning",
@@ -308,7 +308,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -325,7 +325,7 @@
       "name": "Futom",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "design",
