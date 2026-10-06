@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T20:39:05.944Z",
+  "generatedAt": "2026-10-06T01:26:42.599Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "29/09",
-      "30/09",
-      "01/10",
-      "02/10",
-      "03/10",
-      "04/10",
-      "05/10"
+      "06/10",
+      "07/10",
+      "08/10",
+      "09/10",
+      "10/10",
+      "11/10",
+      "12/10"
     ]
   },
   "clients": [
@@ -28,12 +28,12 @@
       "idleDays": 3,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901326685391",
@@ -48,12 +48,12 @@
       "idleDays": 2,
       "week": [
         "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
@@ -67,13 +67,13 @@
       "progress": 18,
       "idleDays": 3,
       "week": [
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324613220",
@@ -88,12 +88,12 @@
       "idleDays": 3,
       "week": [
         "idle",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324614041",
@@ -109,8 +109,8 @@
       "week": [
         "design",
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -125,15 +125,15 @@
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 13,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324682275",
@@ -148,12 +148,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "planning"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -165,15 +165,15 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 16,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "planning"
       ],
       "_meta": {
         "listId": "901324682326",
@@ -185,15 +185,15 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 20,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
-        "done",
+        "design",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901327915140",
@@ -205,12 +205,12 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 33,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
+        "design",
         "idle",
-        "idle",
-        "done",
+        "design",
         "idle",
         "idle",
         "design"
@@ -227,13 +227,13 @@
       "progress": 14,
       "idleDays": 3,
       "week": [
-        "idle",
         "planning",
         "planning",
         "planning",
+        "planning",
         "idle",
         "idle",
-        "idle"
+        "planning"
       ],
       "_meta": {
         "listId": "901324682471",
@@ -245,15 +245,15 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 2,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901329016585",
@@ -268,12 +268,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "planning"
       ],
       "_meta": {
         "listId": "901329053297",
@@ -285,15 +285,15 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 10,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "done",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901329085234",
@@ -305,12 +305,12 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -328,8 +328,8 @@
       "idleDays": 3,
       "week": [
         "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
         "design",
         "idle",
         "idle",
