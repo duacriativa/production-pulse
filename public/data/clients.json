@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:52:08.746Z",
+  "generatedAt": "2026-10-06T14:32:08.540Z",
   "week": {
     "days": [
       "TER",
@@ -65,7 +65,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "design",
         "planning",
@@ -125,9 +125,9 @@
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 13,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
-        "design",
+        "planning",
         "planning",
         "planning",
         "planning",
@@ -144,7 +144,7 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 19,
+      "progress": 21,
       "idleDays": 0,
       "week": [
         "idle",
@@ -158,14 +158,14 @@
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 21
       }
     },
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 16,
-      "idleDays": 1,
+      "progress": 20,
+      "idleDays": 0,
       "week": [
         "idle",
         "planning",
@@ -178,7 +178,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 16
+        "doneCount": 20
       }
     },
     {
@@ -204,8 +204,8 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 33,
-      "idleDays": 1,
+      "progress": 34,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
@@ -218,7 +218,7 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 33
+        "doneCount": 34
       }
     },
     {
@@ -264,7 +264,7 @@
     {
       "name": "FAV",
       "owner": "Luana Vieira",
-      "progress": 3,
+      "progress": 4,
       "idleDays": 0,
       "week": [
         "idle",
@@ -278,7 +278,7 @@
       "_meta": {
         "listId": "901329053297",
         "taskCount": 100,
-        "doneCount": 3
+        "doneCount": 4
       }
     },
     {
@@ -305,7 +305,7 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
