@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T16:23:41.910Z",
+  "generatedAt": "2026-10-07T21:24:46.948Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 30,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "planning",
@@ -64,21 +64,21 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 18,
-      "idleDays": 5,
+      "progress": 21,
+      "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
-        "planning",
+        "idle",
+        "design",
+        "design",
         "idle",
         "idle",
-        "planning"
+        "design"
       ],
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 21
       }
     },
     {
@@ -89,7 +89,7 @@
       "week": [
         "idle",
         "design",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 17,
-      "idleDays": 5,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
@@ -127,13 +127,13 @@
       "progress": 13,
       "idleDays": 0,
       "week": [
-        "design",
-        "idle",
-        "design",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324682275",
@@ -168,9 +168,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
-        "design",
-        "design",
+        "idle",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -224,21 +224,21 @@
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 14,
+      "progress": 20,
       "idleDays": 0,
       "week": [
-        "planning",
-        "planning",
-        "planning",
+        "idle",
+        "idle",
+        "design",
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 14
+        "doneCount": 20
       }
     },
     {
@@ -265,15 +265,15 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 4,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
         "idle",
         "idle",
-        "planning"
+        "design",
+        "idle",
+        "idle",
+        "design"
       ],
       "_meta": {
         "listId": "901329053297",
@@ -325,7 +325,7 @@
       "name": "Futom",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "design",
