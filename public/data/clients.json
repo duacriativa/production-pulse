@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T09:07:24.749Z",
+  "generatedAt": "2026-10-07T16:23:41.910Z",
   "week": {
     "days": [
       "TER",
@@ -65,7 +65,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "design",
         "planning",
@@ -84,8 +84,8 @@
     {
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
-      "progress": 46,
-      "idleDays": 4,
+      "progress": 43,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
@@ -93,12 +93,12 @@
         "idle",
         "idle",
         "idle",
-        "planning"
+        "design"
       ],
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 46
+        "doneCount": 43
       }
     },
     {
@@ -144,21 +144,21 @@
     {
       "name": "Flora Minha",
       "owner": "Luana Vieira",
-      "progress": 21,
+      "progress": 22,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
+        "done",
         "idle",
         "idle",
-        "planning"
+        "idle",
+        "idle",
+        "design"
       ],
       "_meta": {
         "listId": "901324682301",
         "taskCount": 100,
-        "doneCount": 21
+        "doneCount": 22
       }
     },
     {
@@ -168,12 +168,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "planning"
+        "design"
       ],
       "_meta": {
         "listId": "901324682326",
@@ -225,15 +225,15 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 14,
-      "idleDays": 4,
+      "idleDays": 0,
       "week": [
         "planning",
         "planning",
         "planning",
-        "planning",
+        "design",
         "idle",
         "idle",
-        "planning"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682471",
@@ -265,7 +265,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 4,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -309,7 +309,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
