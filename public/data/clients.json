@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T14:40:42.771Z",
+  "generatedAt": "2026-10-08T20:08:20.459Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 30,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "idle",
         "planning",
@@ -69,7 +69,7 @@
       "week": [
         "design",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Doce Caju",
       "owner": "Luana Vieira",
       "progress": 17,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "idle",
@@ -125,7 +125,7 @@
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 13,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 20,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -305,7 +305,7 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -323,9 +323,9 @@
     },
     {
       "name": "Futom",
-      "owner": "Davila Rocha",
+      "owner": "Luana Vieira",
       "progress": 0,
-      "idleDays": 5,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
@@ -337,7 +337,7 @@
       ],
       "_meta": {
         "listId": "1400370000002327",
-        "taskCount": 16,
+        "taskCount": 17,
         "doneCount": 0
       }
     }
