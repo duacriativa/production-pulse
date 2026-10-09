@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:56:03.105Z",
+  "generatedAt": "2026-10-09T23:00:55.663Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "AYA - Fitness",
       "owner": "Ciane DuaCriativa",
       "progress": 30,
-      "idleDays": 6,
+      "idleDays": 7,
       "week": [
         "idle",
         "planning",
@@ -50,10 +50,10 @@
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324614474",
@@ -83,12 +83,12 @@
     },
     {
       "name": "Andirá Jeans",
-      "owner": "Davila Rocha",
+      "owner": "Isadora Coelho Cosmo",
       "progress": 42,
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "planning",
         "idle",
         "idle",
         "idle",
@@ -190,10 +190,10 @@
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901327915140",
@@ -230,10 +230,10 @@
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324682471",
@@ -250,10 +250,10 @@
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901329016585",
@@ -310,7 +310,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
