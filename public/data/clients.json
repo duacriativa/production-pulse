@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T22:02:37.242Z",
+  "generatedAt": "2026-10-11T00:51:24.422Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 15,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 17,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
