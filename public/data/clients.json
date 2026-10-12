@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T01:13:27.590Z",
+  "generatedAt": "2026-10-12T07:22:43.907Z",
   "week": {
     "days": [
       "TER",
@@ -325,7 +325,7 @@
       "name": "Futom",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "planning",
