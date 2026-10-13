@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:04:06.115Z",
+  "generatedAt": "2026-10-13T18:10:01.982Z",
   "week": {
     "days": [
       "TER",
@@ -22,43 +22,23 @@
   },
   "clients": [
     {
-      "name": "AYA - Fitness",
-      "owner": "Ciane DuaCriativa",
-      "progress": 30,
-      "idleDays": 10,
-      "week": [
-        "planning",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
-      ],
-      "_meta": {
-        "listId": "901326685391",
-        "taskCount": 100,
-        "doneCount": 30
-      }
-    },
-    {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 15,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
+        "design",
         "design",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 15
+        "doneCount": 19
       }
     },
     {
@@ -102,34 +82,14 @@
       }
     },
     {
-      "name": "Doce Caju",
-      "owner": "Luana Vieira",
-      "progress": 17,
-      "idleDays": 5,
-      "week": [
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle"
-      ],
-      "_meta": {
-        "listId": "901324614721",
-        "taskCount": 100,
-        "doneCount": 17
-      }
-    },
-    {
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 11,
       "idleDays": 0,
       "week": [
         "design",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "planning",
         "idle",
         "idle",
@@ -188,8 +148,8 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "planning",
         "idle",
         "design",
@@ -209,7 +169,7 @@
       "week": [
         "idle",
         "planning",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -248,8 +208,8 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "planning",
         "idle",
         "design",
@@ -307,7 +267,7 @@
       "progress": 0,
       "idleDays": 0,
       "week": [
-        "design",
+        "approval",
         "planning",
         "planning",
         "planning",
