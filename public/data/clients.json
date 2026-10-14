@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:05:58.360Z",
+  "generatedAt": "2026-10-14T20:38:23.840Z",
   "week": {
     "days": [
       "TER",
@@ -107,7 +107,7 @@
       "progress": 23,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "design",
         "design",
         "design",
@@ -164,41 +164,41 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 31,
+      "progress": 33,
       "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "idle",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 31
+        "doneCount": 33
       }
     },
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 18,
-      "idleDays": 1,
+      "progress": 20,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "idle",
         "design",
-        "planning",
+        "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 18
+        "doneCount": 20
       }
     },
     {
@@ -210,7 +210,7 @@
         "idle",
         "idle",
         "design",
-        "planning",
+        "design",
         "idle",
         "design",
         "idle"
@@ -230,10 +230,10 @@
         "idle",
         "design",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901329053297",
@@ -248,7 +248,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "approval",
         "design",
         "design",
         "idle",
@@ -285,12 +285,12 @@
       "name": "Futom",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "design",
         "planning",
-        "planning",
-        "planning",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
