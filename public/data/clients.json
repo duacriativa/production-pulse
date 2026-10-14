@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:38:23.840Z",
+  "generatedAt": "2026-10-14T23:25:58.039Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -48,7 +48,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -89,7 +89,7 @@
       "week": [
         "design",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -108,7 +108,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -149,7 +149,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "planning",
         "design",
         "planning",
         "design",
@@ -209,7 +209,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "design",
@@ -249,7 +249,7 @@
       "week": [
         "idle",
         "approval",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -289,7 +289,7 @@
       "week": [
         "design",
         "planning",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
