@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T12:08:53.936Z",
+  "generatedAt": "2026-10-14T17:05:58.360Z",
   "week": {
     "days": [
       "TER",
@@ -90,7 +90,7 @@
         "design",
         "idle",
         "design",
-        "planning",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -144,21 +144,21 @@
     {
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
-      "progress": 17,
+      "progress": 11,
       "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "design",
+        "design",
         "planning",
-        "idle",
         "design",
         "idle"
       ],
       "_meta": {
         "listId": "901327915140",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 11
       }
     },
     {
@@ -208,7 +208,7 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
+        "idle",
         "design",
         "planning",
         "idle",
@@ -224,21 +224,21 @@
     {
       "name": "FAV",
       "owner": "Luana Vieira",
-      "progress": 4,
-      "idleDays": 1,
+      "progress": 7,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
+        "design",
+        "idle",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901329053297",
         "taskCount": 100,
-        "doneCount": 4
+        "doneCount": 7
       }
     },
     {
@@ -268,9 +268,9 @@
       "idleDays": 0,
       "week": [
         "approval",
-        "planning",
-        "planning",
-        "planning",
+        "idle",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
