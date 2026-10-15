@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:51:50.071Z",
+  "generatedAt": "2026-10-15T15:47:51.535Z",
   "week": {
     "days": [
       "TER",
@@ -190,7 +190,7 @@
         "idle",
         "idle",
         "design",
-        "design",
+        "approval",
         "idle",
         "idle",
         "design"
@@ -269,7 +269,7 @@
       "week": [
         "approval",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -283,13 +283,13 @@
     },
     {
       "name": "Futom",
-      "owner": "Davila Rocha",
+      "owner": "Luana Vieira",
       "progress": 0,
       "idleDays": 0,
       "week": [
         "design",
         "planning",
-        "idle",
+        "design",
         "design",
         "idle",
         "idle",
@@ -297,7 +297,7 @@
       ],
       "_meta": {
         "listId": "1400370000002327",
-        "taskCount": 26,
+        "taskCount": 27,
         "doneCount": 0
       }
     }
