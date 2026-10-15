@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:25:58.039Z",
+  "generatedAt": "2026-10-15T01:38:06.998Z",
   "week": {
     "days": [
       "TER",
@@ -65,7 +65,7 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 41,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "planning",
