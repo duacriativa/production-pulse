@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:13:24.560Z",
+  "generatedAt": "2026-10-17T16:26:07.723Z",
   "week": {
     "days": [
       "TER",
@@ -265,7 +265,7 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "approval",
         "idle",
