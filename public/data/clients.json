@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:22:56.127Z",
+  "generatedAt": "2026-10-17T05:44:31.468Z",
   "week": {
     "days": [
       "TER",
@@ -31,7 +31,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle"
       ],
@@ -45,15 +45,15 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
         "idle",
-        "design",
         "idle",
         "idle",
-        "design"
+        "idle",
+        "idle"
       ],
       "_meta": {
         "listId": "901324613220",
