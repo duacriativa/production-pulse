@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T18:42:00.314Z",
+  "generatedAt": "2026-10-17T20:58:59.416Z",
   "week": {
     "days": [
       "TER",
@@ -105,7 +105,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 23,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 12,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "approval",
@@ -285,7 +285,7 @@
       "name": "Futom",
       "owner": "Luana Vieira",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "design",
         "planning",
