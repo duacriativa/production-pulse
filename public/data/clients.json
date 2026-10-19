@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:29:43.837Z",
+  "generatedAt": "2026-10-19T13:49:58.726Z",
   "week": {
     "days": [
       "TER",
@@ -44,7 +44,7 @@
     {
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
-      "progress": 20,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "idle",
@@ -58,7 +58,7 @@
       "_meta": {
         "listId": "901324613220",
         "taskCount": 100,
-        "doneCount": 20
+        "doneCount": 19
       }
     },
     {
@@ -84,7 +84,7 @@
     {
       "name": "Eloah",
       "owner": "Luana Vieira",
-      "progress": 9,
+      "progress": 8,
       "idleDays": 0,
       "week": [
         "design",
@@ -98,7 +98,7 @@
       "_meta": {
         "listId": "901324682275",
         "taskCount": 100,
-        "doneCount": 9
+        "doneCount": 8
       }
     },
     {
@@ -164,7 +164,7 @@
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
-      "progress": 33,
+      "progress": 32,
       "idleDays": 0,
       "week": [
         "idle",
@@ -178,7 +178,7 @@
       "_meta": {
         "listId": "901324682343",
         "taskCount": 100,
-        "doneCount": 33
+        "doneCount": 32
       }
     },
     {
@@ -257,7 +257,7 @@
       ],
       "_meta": {
         "listId": "901329085234",
-        "taskCount": 67,
+        "taskCount": 68,
         "doneCount": 7
       }
     },
@@ -277,7 +277,7 @@
       ],
       "_meta": {
         "listId": "1400370000002325",
-        "taskCount": 31,
+        "taskCount": 32,
         "doneCount": 0
       }
     },
@@ -297,7 +297,7 @@
       ],
       "_meta": {
         "listId": "1400370000002327",
-        "taskCount": 35,
+        "taskCount": 36,
         "doneCount": 0
       }
     }
