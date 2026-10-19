@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:49:58.726Z",
+  "generatedAt": "2026-10-19T19:30:55.130Z",
   "week": {
     "days": [
       "TER",
@@ -65,7 +65,7 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 40,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -150,9 +150,9 @@
         "idle",
         "idle",
         "planning",
-        "planning",
-        "planning",
         "design",
+        "planning",
+        "idle",
         "idle"
       ],
       "_meta": {
@@ -185,7 +185,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -212,8 +212,8 @@
         "idle",
         "idle",
         "idle",
-        "design",
-        "idle"
+        "idle",
+        "design"
       ],
       "_meta": {
         "listId": "901329016585",
