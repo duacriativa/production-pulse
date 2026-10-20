@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:15:00.811Z",
+  "generatedAt": "2026-10-20T23:12:19.905Z",
   "week": {
     "days": [
       "TER",
@@ -24,21 +24,21 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 20,
+      "progress": 19,
       "idleDays": 0,
       "week": [
         "idle",
         "design",
-        "planning",
+        "design",
         "design",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 20
+        "doneCount": 19
       }
     },
     {
@@ -88,7 +88,7 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
+        "idle",
         "design",
         "design",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 10,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -184,21 +184,21 @@
     {
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
-      "idleDays": 2,
+      "progress": 21,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
-        "planning",
-        "planning",
         "idle",
         "idle",
-        "idle"
+        "design",
+        "idle",
+        "idle",
+        "design"
       ],
       "_meta": {
         "listId": "901324682471",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 21
       }
     },
     {
@@ -249,8 +249,8 @@
       "week": [
         "idle",
         "idle",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "design"
@@ -283,7 +283,7 @@
     },
     {
       "name": "Futom",
-      "owner": "Davila Rocha",
+      "owner": "Luana Vieira",
       "progress": 0,
       "idleDays": 0,
       "week": [
@@ -297,7 +297,7 @@
       ],
       "_meta": {
         "listId": "1400370000002327",
-        "taskCount": 36,
+        "taskCount": 37,
         "doneCount": 0
       }
     }
