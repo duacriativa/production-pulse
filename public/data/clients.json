@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T23:01:22.293Z",
+  "generatedAt": "2026-10-20T01:41:15.815Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "13/10",
-      "14/10",
-      "15/10",
-      "16/10",
-      "17/10",
-      "18/10",
-      "19/10"
+      "20/10",
+      "21/10",
+      "22/10",
+      "23/10",
+      "24/10",
+      "25/10",
+      "26/10"
     ]
   },
   "clients": [
@@ -28,9 +28,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -47,12 +47,12 @@
       "progress": 19,
       "idleDays": 0,
       "week": [
+        "design",
+        "planning",
+        "planning",
+        "planning",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
         "idle"
       ],
       "_meta": {
@@ -67,11 +67,11 @@
       "progress": 40,
       "idleDays": 1,
       "week": [
-        "idle",
+        "planning",
         "planning",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle"
       ],
@@ -88,9 +88,9 @@
       "idleDays": 0,
       "week": [
         "design",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -108,9 +108,9 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
         "design"
@@ -127,10 +127,10 @@
       "progress": 17,
       "idleDays": 0,
       "week": [
+        "design",
+        "design",
         "idle",
-        "idle",
-        "idle",
-        "idle",
+        "planning",
         "idle",
         "idle",
         "design"
@@ -149,9 +149,9 @@
       "week": [
         "idle",
         "idle",
+        "idle",
         "planning",
-        "design",
-        "planning",
+        "idle",
         "idle",
         "idle"
       ],
@@ -168,12 +168,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "planning",
+        "design",
         "idle",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682343",
@@ -188,9 +188,9 @@
       "idleDays": 1,
       "week": [
         "idle",
-        "idle",
-        "idle",
-        "approval",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -208,12 +208,12 @@
       "idleDays": 0,
       "week": [
         "idle",
+        "design",
+        "design",
+        "design",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901329016585",
@@ -227,10 +227,10 @@
       "progress": 7,
       "idleDays": 0,
       "week": [
+        "design",
+        "planning",
         "idle",
-        "design",
-        "design",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -248,12 +248,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "approval",
+        "planning",
+        "planning",
+        "planning",
         "idle",
         "idle",
-        "idle",
-        "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901329085234",
@@ -267,10 +267,10 @@
       "progress": 0,
       "idleDays": 0,
       "week": [
-        "approval",
         "idle",
-        "idle",
-        "idle",
+        "planning",
+        "design",
+        "planning",
         "idle",
         "idle",
         "idle"
@@ -289,8 +289,8 @@
       "week": [
         "design",
         "planning",
-        "design",
-        "design",
+        "planning",
+        "planning",
         "idle",
         "idle",
         "idle"
