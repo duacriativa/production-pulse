@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:07:18.552Z",
+  "generatedAt": "2026-10-20T16:55:19.495Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -47,7 +47,7 @@
       "progress": 19,
       "idleDays": 0,
       "week": [
-        "design",
+        "idle",
         "planning",
         "planning",
         "planning",
@@ -124,13 +124,13 @@
     {
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
-      "progress": 17,
+      "progress": 18,
       "idleDays": 0,
       "week": [
         "design",
         "design",
-        "idle",
-        "planning",
+        "design",
+        "design",
         "idle",
         "idle",
         "design"
@@ -138,7 +138,7 @@
       "_meta": {
         "listId": "901324682326",
         "taskCount": 100,
-        "doneCount": 17
+        "doneCount": 18
       }
     },
     {
@@ -165,7 +165,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 32,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "planning",
@@ -225,7 +225,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 7,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "design",
         "planning",
@@ -265,12 +265,12 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
-        "planning",
         "design",
-        "planning",
+        "design",
+        "design",
         "idle",
         "idle",
         "idle"
