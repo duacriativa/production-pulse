@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:25:08.891Z",
+  "generatedAt": "2026-10-22T17:26:21.981Z",
   "week": {
     "days": [
       "TER",
@@ -64,11 +64,11 @@
     {
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
-      "progress": 40,
-      "idleDays": 3,
+      "progress": 39,
+      "idleDays": 0,
       "week": [
         "planning",
-        "planning",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -78,7 +78,7 @@
       "_meta": {
         "listId": "901324614041",
         "taskCount": 100,
-        "doneCount": 40
+        "doneCount": 39
       }
     },
     {
@@ -105,7 +105,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 7,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "design",
         "planning",
@@ -269,7 +269,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -297,7 +297,7 @@
       ],
       "_meta": {
         "listId": "1400370000002327",
-        "taskCount": 38,
+        "taskCount": 39,
         "doneCount": 0
       }
     }
