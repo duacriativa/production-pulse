@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T20:41:44.808Z",
+  "generatedAt": "2026-10-22T23:36:49.502Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -52,7 +52,7 @@
         "approval",
         "design",
         "idle",
-        "design",
+        "approval",
         "design"
       ],
       "_meta": {
@@ -89,7 +89,7 @@
       "week": [
         "design",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -125,11 +125,11 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "design",
         "idle",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 10,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -270,7 +270,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
