@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:04:36.449Z",
+  "generatedAt": "2026-10-23T20:21:43.887Z",
   "week": {
     "days": [
       "TER",
@@ -50,7 +50,7 @@
         "done",
         "idle",
         "approval",
-        "design",
+        "idle",
         "idle",
         "approval",
         "design"
@@ -68,7 +68,7 @@
       "idleDays": 0,
       "week": [
         "planning",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 33,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 1,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -288,8 +288,8 @@
       "idleDays": 0,
       "week": [
         "design",
-        "design",
-        "design",
+        "idle",
+        "idle",
         "design",
         "idle",
         "idle",
