@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:21:43.887Z",
+  "generatedAt": "2026-10-23T23:14:37.119Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 1,
+      "idleDays": 2,
       "week": [
         "idle",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 1,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 10,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
