@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T12:10:53.552Z",
+  "generatedAt": "2026-10-23T17:04:36.449Z",
   "week": {
     "days": [
       "TER",
@@ -225,7 +225,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 7,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "design",
         "planning",
@@ -245,7 +245,7 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 2,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -253,7 +253,7 @@
         "idle",
         "idle",
         "idle",
-        "design"
+        "approval"
       ],
       "_meta": {
         "listId": "901329085234",
