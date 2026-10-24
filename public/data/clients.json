@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:42:00.013Z",
+  "generatedAt": "2026-10-24T17:36:07.071Z",
   "week": {
     "days": [
       "TER",
@@ -185,7 +185,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 7,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "design",
         "planning",
@@ -245,7 +245,7 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
