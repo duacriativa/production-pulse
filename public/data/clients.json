@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:53:36.852Z",
+  "generatedAt": "2026-10-26T21:15:37.668Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 19,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "idle",
@@ -53,7 +53,7 @@
         "idle",
         "idle",
         "approval",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324613220",
@@ -65,7 +65,7 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 39,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "planning",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -185,7 +185,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "idle",
