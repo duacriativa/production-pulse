@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T08:56:10.307Z",
+  "generatedAt": "2026-10-31T14:59:24.736Z",
   "week": {
     "days": [
       "TER",
@@ -24,8 +24,8 @@
     {
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
-      "progress": 19,
-      "idleDays": 9,
+      "progress": 18,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -38,7 +38,7 @@
       "_meta": {
         "listId": "901324614474",
         "taskCount": 100,
-        "doneCount": 19
+        "doneCount": 18
       }
     },
     {
@@ -65,7 +65,7 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 39,
-      "idleDays": 0,
+      "idleDays": 1,
       "week": [
         "idle",
         "idle",
@@ -85,7 +85,7 @@
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 7,
-      "idleDays": 4,
+      "idleDays": 0,
       "week": [
         "design",
         "idle",
@@ -144,7 +144,7 @@
     {
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
-      "progress": 9,
+      "progress": 8,
       "idleDays": 0,
       "week": [
         "idle",
@@ -158,14 +158,14 @@
       "_meta": {
         "listId": "901327915140",
         "taskCount": 100,
-        "doneCount": 9
+        "doneCount": 8
       }
     },
     {
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 33,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "design",
@@ -205,7 +205,7 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 1,
-      "idleDays": 3,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -217,7 +217,7 @@
       ],
       "_meta": {
         "listId": "901329016585",
-        "taskCount": 77,
+        "taskCount": 78,
         "doneCount": 1
       }
     },
@@ -225,7 +225,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 7,
-      "idleDays": 11,
+      "idleDays": 0,
       "week": [
         "planning",
         "idle",
@@ -245,7 +245,7 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 4,
+      "idleDays": 0,
       "week": [
         "idle",
         "idle",
@@ -257,7 +257,7 @@
       ],
       "_meta": {
         "listId": "901329085234",
-        "taskCount": 69,
+        "taskCount": 70,
         "doneCount": 9
       }
     },
@@ -265,7 +265,7 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 4,
+      "idleDays": 5,
       "week": [
         "idle",
         "idle",
