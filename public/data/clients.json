@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:46:20.833Z",
+  "generatedAt": "2026-11-05T22:22:46.161Z",
   "week": {
     "days": [
       "TER",
@@ -185,7 +185,7 @@
       "name": "Naromo",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 14,
+      "idleDays": 15,
       "week": [
         "idle",
         "idle",
