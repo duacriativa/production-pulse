@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T09:50:10.840Z",
+  "generatedAt": "2026-11-06T16:58:01.693Z",
   "week": {
     "days": [
       "TER",
@@ -25,7 +25,7 @@
       "name": "Del Carmen",
       "owner": "Ciane DuaCriativa",
       "progress": 18,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "idle",
         "idle",
@@ -45,7 +45,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "design",
         "idle",
@@ -65,7 +65,7 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 39,
-      "idleDays": 6,
+      "idleDays": 7,
       "week": [
         "idle",
         "idle",
@@ -85,7 +85,7 @@
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 7,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "design",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "idle",
@@ -145,7 +145,7 @@
       "name": "Maré Fitness RJ",
       "owner": "Davila Rocha",
       "progress": 8,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 33,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "idle",
         "idle",
@@ -205,7 +205,7 @@
       "name": "Feja",
       "owner": "Davila Rocha",
       "progress": 1,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "idle",
         "idle",
@@ -225,7 +225,7 @@
       "name": "FAV",
       "owner": "Luana Vieira",
       "progress": 7,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 5,
+      "idleDays": 6,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 10,
+      "idleDays": 11,
       "week": [
         "design",
         "idle",
@@ -285,7 +285,7 @@
       "name": "Futom",
       "owner": "Luana Vieira",
       "progress": 0,
-      "idleDays": 3,
+      "idleDays": 4,
       "week": [
         "idle",
         "design",
