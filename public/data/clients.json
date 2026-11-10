@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:26:59.232Z",
+  "generatedAt": "2026-11-10T02:50:30.931Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "03/11",
-      "04/11",
-      "05/11",
-      "06/11",
-      "07/11",
-      "08/11",
-      "09/11"
+      "10/11",
+      "11/11",
+      "12/11",
+      "13/11",
+      "14/11",
+      "15/11",
+      "16/11"
     ]
   },
   "clients": [
@@ -30,7 +30,7 @@
         "idle",
         "idle",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle"
@@ -47,10 +47,10 @@
       "progress": 21,
       "idleDays": 0,
       "week": [
-        "design",
         "idle",
         "idle",
-        "design",
+        "idle",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -113,7 +113,7 @@
         "idle",
         "idle",
         "idle",
-        "idle"
+        "design"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -125,9 +125,9 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 13,
+      "idleDays": 14,
       "week": [
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -148,7 +148,7 @@
       "idleDays": 9,
       "week": [
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -169,7 +169,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -211,7 +211,7 @@
         "idle",
         "idle",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle"
       ],
@@ -229,7 +229,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -251,8 +251,8 @@
         "idle",
         "idle",
         "idle",
-        "idle",
         "design",
+        "idle",
         "idle"
       ],
       "_meta": {
@@ -267,7 +267,7 @@
       "progress": 0,
       "idleDays": 14,
       "week": [
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -288,12 +288,12 @@
       "idleDays": 0,
       "week": [
         "idle",
-        "design",
         "idle",
         "idle",
         "idle",
         "idle",
-        "idle"
+        "idle",
+        "design"
       ],
       "_meta": {
         "listId": "1400370000002327",
