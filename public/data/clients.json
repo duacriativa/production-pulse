@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T04:15:56.504Z",
+  "generatedAt": "2026-11-12T12:50:38.551Z",
   "week": {
     "days": [
       "TER",
@@ -45,7 +45,7 @@
       "name": "Amiche",
       "owner": "Ciane DuaCriativa",
       "progress": 21,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -65,7 +65,7 @@
       "name": "Andirá Jeans",
       "owner": "Davila Rocha",
       "progress": 39,
-      "idleDays": 12,
+      "idleDays": 13,
       "week": [
         "idle",
         "idle",
@@ -85,7 +85,7 @@
       "name": "Eloah",
       "owner": "Luana Vieira",
       "progress": 6,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "design",
         "idle",
@@ -105,7 +105,7 @@
       "name": "Flora Minha",
       "owner": "Luana Vieira",
       "progress": 21,
-      "idleDays": 9,
+      "idleDays": 10,
       "week": [
         "idle",
         "idle",
@@ -165,7 +165,7 @@
       "name": "Marry Blue",
       "owner": "Luana Vieira",
       "progress": 32,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -245,7 +245,7 @@
       "name": "USE LOVAA",
       "owner": "Ciane DuaCriativa",
       "progress": 13,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
@@ -265,7 +265,7 @@
       "name": "Pelle",
       "owner": "Davila Rocha",
       "progress": 0,
-      "idleDays": 16,
+      "idleDays": 17,
       "week": [
         "idle",
         "idle",
@@ -285,7 +285,7 @@
       "name": "Futom",
       "owner": "Luana Vieira",
       "progress": 0,
-      "idleDays": 2,
+      "idleDays": 3,
       "week": [
         "idle",
         "idle",
