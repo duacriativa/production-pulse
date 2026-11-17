@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T18:53:41.032Z",
+  "generatedAt": "2026-11-17T02:12:19.442Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "10/11",
-      "11/11",
-      "12/11",
-      "13/11",
-      "14/11",
-      "15/11",
-      "16/11"
+      "17/11",
+      "18/11",
+      "19/11",
+      "20/11",
+      "21/11",
+      "22/11",
+      "23/11"
     ]
   },
   "clients": [
@@ -30,7 +30,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle"
@@ -48,7 +48,7 @@
       "idleDays": 7,
       "week": [
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -87,7 +87,7 @@
       "progress": 6,
       "idleDays": 7,
       "week": [
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -113,7 +113,7 @@
         "idle",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "901324682301",
@@ -125,9 +125,9 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 20,
+      "idleDays": 21,
       "week": [
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -148,7 +148,7 @@
       "idleDays": 16,
       "week": [
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -169,7 +169,7 @@
       "week": [
         "idle",
         "idle",
-        "idle",
+        "design",
         "idle",
         "idle",
         "idle",
@@ -211,7 +211,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle"
       ],
@@ -251,7 +251,7 @@
         "idle",
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle"
       ],
@@ -293,7 +293,7 @@
         "idle",
         "idle",
         "idle",
-        "design"
+        "idle"
       ],
       "_meta": {
         "listId": "1400370000002327",
