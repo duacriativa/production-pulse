@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T22:42:36.495Z",
+  "generatedAt": "2026-11-24T06:25:42.071Z",
   "week": {
     "days": [
       "TER",
@@ -11,13 +11,13 @@
       "SEG"
     ],
     "dates": [
-      "17/11",
-      "18/11",
-      "19/11",
-      "20/11",
-      "21/11",
-      "22/11",
-      "23/11"
+      "24/11",
+      "25/11",
+      "26/11",
+      "27/11",
+      "28/11",
+      "29/11",
+      "30/11"
     ]
   },
   "clients": [
@@ -48,7 +48,7 @@
       "idleDays": 14,
       "week": [
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
@@ -125,7 +125,7 @@
       "name": "Kyrefh Jeans",
       "owner": "Luana Vieira",
       "progress": 18,
-      "idleDays": 27,
+      "idleDays": 28,
       "week": [
         "idle",
         "idle",
@@ -169,7 +169,7 @@
       "week": [
         "idle",
         "idle",
-        "design",
+        "idle",
         "idle",
         "idle",
         "idle",
